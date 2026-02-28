@@ -1,0 +1,780 @@
+{
+  "version": "1.0",
+  "count": 24,
+  "source": "FQSA/ZECs/guides locaux",
+  "note": "Local notes fields are crowdsourceable",
+  "flies": [
+    {
+      "river": "Grande Cascapédia",
+      "river_slug": "grande_cascapedia",
+      "region": "Gaspésie",
+      "classic_flies": [
+        "Cascapédia",
+        "Green Highlander",
+        "Jock Scott",
+        "Rusty Rat"
+      ],
+      "dry_surface_flies": [
+        "Bomber (natural/orange)",
+        "White Wulff",
+        "Elk Hair Caddis"
+      ],
+      "wet_nymph_flies": [
+        "Blue Charm",
+        "March Brown",
+        "Silver Rat",
+        "Hairy Mary"
+      ],
+      "tube_flies": [
+        "Black Bear Green Butt",
+        "Cascade",
+        "Frances"
+      ],
+      "best_months": "Juil–Sept",
+      "dominant_colors": "Naturel/orange eau basse; noir/vert eau colorée",
+      "hook_size": "#4–#8",
+      "local_notes": "",
+      "contributed_by": "Société Cascapédia / guides locaux",
+      "last_updated": "",
+      "validated": "✓ Validé",
+      "source_reference": "saumonquebec.com"
+    },
+    {
+      "river": "Rivière Bonaventure",
+      "river_slug": "riviere_bonaventure",
+      "region": "Gaspésie",
+      "classic_flies": [
+        "Rusty Rat",
+        "Green Highlander",
+        "Black Bear Green Butt"
+      ],
+      "dry_surface_flies": [
+        "Bomber",
+        "Bombie",
+        "Muddler Minnow (surface)"
+      ],
+      "wet_nymph_flies": [
+        "Blue Charm",
+        "Silver Doctor",
+        "Hairy Mary"
+      ],
+      "tube_flies": [
+        "Frances",
+        "Cascade",
+        "Willie Gunn"
+      ],
+      "best_months": "Juil–Sept",
+      "dominant_colors": "Vert/jaune eau claire; sombre eau colorée",
+      "hook_size": "#4–#8",
+      "local_notes": "",
+      "contributed_by": "ZEC Bonaventure / pêcheurs",
+      "last_updated": "",
+      "validated": "✓ Validé",
+      "source_reference": "FQSA"
+    },
+    {
+      "river": "Rivière Matapédia",
+      "river_slug": "riviere_matapedia",
+      "region": "Gaspésie / BSL",
+      "classic_flies": [
+        "Matapédia Special",
+        "Rusty Rat",
+        "Jock Scott",
+        "Mar Lodge"
+      ],
+      "dry_surface_flies": [
+        "Bomber orange",
+        "White Wulff",
+        "Irresistible"
+      ],
+      "wet_nymph_flies": [
+        "Blue Charm",
+        "Silver Rat",
+        "Green Highlander"
+      ],
+      "tube_flies": [
+        "Willie Gunn",
+        "Cascade",
+        "Black Francis"
+      ],
+      "best_months": "Juin–Oct",
+      "dominant_colors": "Tailles variables; #6 eau basse; #2 eau haute",
+      "hook_size": "#2–#8",
+      "local_notes": "",
+      "contributed_by": "CGRMP / Matapédia guides",
+      "last_updated": "",
+      "validated": "✓ Validé",
+      "source_reference": "CGRMP"
+    },
+    {
+      "river": "Rivière Causapscal",
+      "river_slug": "riviere_causapscal",
+      "region": "Gaspésie",
+      "classic_flies": [
+        "Rusty Rat",
+        "Green Highlander",
+        "Hairy Mary"
+      ],
+      "dry_surface_flies": [
+        "Bomber",
+        "Stimulator",
+        "Elk Hair Caddis"
+      ],
+      "wet_nymph_flies": [
+        "Blue Charm",
+        "March Brown",
+        "Silver Rat"
+      ],
+      "tube_flies": [
+        "Cascade",
+        "Frances"
+      ],
+      "best_months": "Juil–Sept",
+      "dominant_colors": "Sombre eau haute; naturel eau basse",
+      "hook_size": "#4–#8",
+      "local_notes": "",
+      "contributed_by": "CGRMP",
+      "last_updated": "",
+      "validated": "",
+      "source_reference": "CGRMP"
+    },
+    {
+      "river": "Rivière Cap-Chat",
+      "river_slug": "riviere_cap_chat",
+      "region": "Gaspésie",
+      "classic_flies": [
+        "Rusty Rat",
+        "Black Bear Green Butt",
+        "Green Highlander"
+      ],
+      "dry_surface_flies": [
+        "Bomber",
+        "White Wulff",
+        "Muddler"
+      ],
+      "wet_nymph_flies": [
+        "Blue Charm",
+        "Hairy Mary",
+        "Silver Doctor"
+      ],
+      "tube_flies": [
+        "Frances",
+        "Cascade"
+      ],
+      "best_months": "Juil–Août",
+      "dominant_colors": "Vert/orange eau basse; noir/rouge eau haute",
+      "hook_size": "#4–#8",
+      "local_notes": "",
+      "contributed_by": "Soc. gestion Cap-Chat",
+      "last_updated": "",
+      "validated": "",
+      "source_reference": "ZEC Cap-Chat"
+    },
+    {
+      "river": "Rivière Madeleine",
+      "river_slug": "riviere_madeleine",
+      "region": "Gaspésie",
+      "classic_flies": [
+        "Rusty Rat",
+        "Green Highlander",
+        "Silver Rat"
+      ],
+      "dry_surface_flies": [
+        "Bomber",
+        "Bomber orange",
+        "Elkhair Caddis"
+      ],
+      "wet_nymph_flies": [
+        "Blue Charm",
+        "Hairy Mary",
+        "March Brown"
+      ],
+      "tube_flies": [
+        "Willie Gunn",
+        "Cascade",
+        "Frances"
+      ],
+      "best_months": "Juil–Sept",
+      "dominant_colors": "Orange/naturel eau basse; sombre eau colorée",
+      "hook_size": "#4–#8",
+      "local_notes": "",
+      "contributed_by": "ZEC Madeleine",
+      "last_updated": "",
+      "validated": "",
+      "source_reference": "ZEC Madeleine"
+    },
+    {
+      "river": "Rivière Nouvelle",
+      "river_slug": "riviere_nouvelle",
+      "region": "Gaspésie",
+      "classic_flies": [
+        "Rusty Rat",
+        "Black Bear Green Butt",
+        "Green Highlander"
+      ],
+      "dry_surface_flies": [
+        "Bomber",
+        "White Bomber",
+        "Skater"
+      ],
+      "wet_nymph_flies": [
+        "Blue Charm",
+        "Silver Rat",
+        "Hairy Mary"
+      ],
+      "tube_flies": [
+        "Frances",
+        "Cascade",
+        "Black Francis"
+      ],
+      "best_months": "Juil–Sept",
+      "dominant_colors": "Vert/jaune eau claire; noir/rouge eau sombre",
+      "hook_size": "#4–#8",
+      "local_notes": "",
+      "contributed_by": "Soc. gestion Nouvelle",
+      "last_updated": "",
+      "validated": "",
+      "source_reference": "FQSA"
+    },
+    {
+      "river": "Rivière Dartmouth",
+      "river_slug": "riviere_dartmouth",
+      "region": "Gaspésie",
+      "classic_flies": [
+        "Green Highlander",
+        "Rusty Rat",
+        "Silver Doctor"
+      ],
+      "dry_surface_flies": [
+        "Bomber",
+        "Elk Hair Caddis"
+      ],
+      "wet_nymph_flies": [
+        "Blue Charm",
+        "Hairy Mary"
+      ],
+      "tube_flies": [
+        "Frances",
+        "Willie Gunn"
+      ],
+      "best_months": "Juil–Sept",
+      "dominant_colors": "Petit #6-#8 eau basse; #4 eau plus haute",
+      "hook_size": "#4–#8",
+      "local_notes": "",
+      "contributed_by": "Soc. gestion Gaspé",
+      "last_updated": "",
+      "validated": "",
+      "source_reference": "Soc. gestion Gaspé"
+    },
+    {
+      "river": "Rivière Saint-Jean (Gaspé)",
+      "river_slug": "riviere_saint_jean_gaspe",
+      "region": "Gaspésie",
+      "classic_flies": [
+        "Green Highlander",
+        "Rusty Rat",
+        "Hairy Mary"
+      ],
+      "dry_surface_flies": [
+        "Bomber",
+        "White Wulff"
+      ],
+      "wet_nymph_flies": [
+        "Blue Charm",
+        "Silver Rat"
+      ],
+      "tube_flies": [
+        "Frances",
+        "Cascade"
+      ],
+      "best_months": "Juil–Août",
+      "dominant_colors": "Naturel eau basse; sombre eau haute",
+      "hook_size": "#4–#8",
+      "local_notes": "",
+      "contributed_by": "Soc. gestion Gaspé",
+      "last_updated": "",
+      "validated": "",
+      "source_reference": "Soc. gestion Gaspé"
+    },
+    {
+      "river": "Rivière York",
+      "river_slug": "riviere_york",
+      "region": "Gaspésie",
+      "classic_flies": [
+        "Green Highlander",
+        "Rusty Rat",
+        "Jock Scott"
+      ],
+      "dry_surface_flies": [
+        "Bomber",
+        "Irresistible",
+        "Buck Bug"
+      ],
+      "wet_nymph_flies": [
+        "Blue Charm",
+        "Hairy Mary",
+        "Silver Doctor"
+      ],
+      "tube_flies": [
+        "Willie Gunn",
+        "Frances",
+        "Cascade"
+      ],
+      "best_months": "Juil–Sept",
+      "dominant_colors": "Vert/jaune classique; sombre eau colorée",
+      "hook_size": "#4–#8",
+      "local_notes": "",
+      "contributed_by": "Soc. gestion Gaspé",
+      "last_updated": "",
+      "validated": "",
+      "source_reference": "Soc. gestion Gaspé"
+    },
+    {
+      "river": "Rivière Grand Pabos",
+      "river_slug": "riviere_grand_pabos",
+      "region": "Gaspésie",
+      "classic_flies": [
+        "Rusty Rat",
+        "Green Highlander"
+      ],
+      "dry_surface_flies": [
+        "Bomber",
+        "Elk Hair Caddis"
+      ],
+      "wet_nymph_flies": [
+        "Blue Charm",
+        "Hairy Mary"
+      ],
+      "tube_flies": [
+        "Frances"
+      ],
+      "best_months": "Juil–Août",
+      "dominant_colors": "À confirmer par pêcheurs locaux",
+      "hook_size": "#4–#8",
+      "local_notes": "",
+      "contributed_by": "3 Rivières Pabos",
+      "last_updated": "",
+      "validated": "",
+      "source_reference": "FQSA"
+    },
+    {
+      "river": "Rivière Petit Pabos",
+      "river_slug": "riviere_petit_pabos",
+      "region": "Gaspésie",
+      "classic_flies": [
+        "Rusty Rat",
+        "Green Highlander"
+      ],
+      "dry_surface_flies": [
+        "Bomber",
+        "Elk Hair Caddis"
+      ],
+      "wet_nymph_flies": [
+        "Blue Charm",
+        "Silver Rat"
+      ],
+      "tube_flies": [
+        "Frances"
+      ],
+      "best_months": "Juil–Août",
+      "dominant_colors": "Petites tailles #6-#10 eau basse",
+      "hook_size": "#6–#10",
+      "local_notes": "",
+      "contributed_by": "3 Rivières Pabos",
+      "last_updated": "",
+      "validated": "",
+      "source_reference": "FQSA"
+    },
+    {
+      "river": "Rivière Grande-Rivière",
+      "river_slug": "riviere_grande_riviere",
+      "region": "Gaspésie",
+      "classic_flies": [
+        "Rusty Rat",
+        "Green Highlander",
+        "Silver Doctor"
+      ],
+      "dry_surface_flies": [
+        "Bomber",
+        "White Bomber"
+      ],
+      "wet_nymph_flies": [
+        "Blue Charm",
+        "Hairy Mary"
+      ],
+      "tube_flies": [
+        "Cascade",
+        "Frances"
+      ],
+      "best_months": "Juil–Sept",
+      "dominant_colors": "Classiques couleurs eau claire; sombre après pluie",
+      "hook_size": "#4–#8",
+      "local_notes": "",
+      "contributed_by": "Soc. gestion Grande-Rivière",
+      "last_updated": "",
+      "validated": "",
+      "source_reference": "FQSA"
+    },
+    {
+      "river": "Rivière Patapédia",
+      "river_slug": "riviere_patapedia",
+      "region": "Gaspésie / BSL",
+      "classic_flies": [
+        "Rusty Rat",
+        "Green Highlander",
+        "Black Bear Green Butt"
+      ],
+      "dry_surface_flies": [
+        "Bomber",
+        "White Wulff"
+      ],
+      "wet_nymph_flies": [
+        "Blue Charm",
+        "March Brown",
+        "Hairy Mary"
+      ],
+      "tube_flies": [
+        "Willie Gunn",
+        "Frances",
+        "Cascade"
+      ],
+      "best_months": "Juil–Sept",
+      "dominant_colors": "Vert/or eau basse; noir/rouge eau haute",
+      "hook_size": "#4–#8",
+      "local_notes": "",
+      "contributed_by": "CGRMP",
+      "last_updated": "",
+      "validated": "",
+      "source_reference": "CGRMP"
+    },
+    {
+      "river": "Rivière Mitis",
+      "river_slug": "riviere_mitis",
+      "region": "Bas-Saint-Laurent",
+      "classic_flies": [
+        "Rusty Rat",
+        "Green Highlander",
+        "Silver Rat"
+      ],
+      "dry_surface_flies": [
+        "Bomber",
+        "Buck Bug",
+        "Skater"
+      ],
+      "wet_nymph_flies": [
+        "Blue Charm",
+        "Hairy Mary",
+        "Silver Doctor"
+      ],
+      "tube_flies": [
+        "Frances",
+        "Cascade",
+        "Willie Gunn"
+      ],
+      "best_months": "Juil–Sept",
+      "dominant_colors": "Orange/naturel eau basse; sombre eau haute",
+      "hook_size": "#4–#8",
+      "local_notes": "",
+      "contributed_by": "Corp. gestion Mitis",
+      "last_updated": "",
+      "validated": "",
+      "source_reference": "Corp. Mitis"
+    },
+    {
+      "river": "Rivière Rimouski",
+      "river_slug": "riviere_rimouski",
+      "region": "Bas-Saint-Laurent",
+      "classic_flies": [
+        "Rusty Rat",
+        "Black Bear Green Butt",
+        "Green Highlander"
+      ],
+      "dry_surface_flies": [
+        "Bomber",
+        "Elk Hair Caddis",
+        "Wulff"
+      ],
+      "wet_nymph_flies": [
+        "Blue Charm",
+        "Hairy Mary",
+        "Silver Rat"
+      ],
+      "tube_flies": [
+        "Frances",
+        "Cascade"
+      ],
+      "best_months": "Juil–Sept",
+      "dominant_colors": "Naturel/orange eau basse; noir/vert eau haute",
+      "hook_size": "#4–#8",
+      "local_notes": "",
+      "contributed_by": "Assoc. pêcheurs Rimouski",
+      "last_updated": "",
+      "validated": "",
+      "source_reference": "FQSA / APSSR"
+    },
+    {
+      "river": "Rivière du Gouffre",
+      "river_slug": "riviere_du_gouffre",
+      "region": "Charlevoix",
+      "classic_flies": [
+        "Rusty Rat",
+        "Green Highlander",
+        "Silver Doctor"
+      ],
+      "dry_surface_flies": [
+        "Bomber",
+        "White Wulff",
+        "Elk Hair Caddis"
+      ],
+      "wet_nymph_flies": [
+        "Blue Charm",
+        "Hairy Mary",
+        "March Brown"
+      ],
+      "tube_flies": [
+        "Frances",
+        "Cascade"
+      ],
+      "best_months": "Juil–Sept",
+      "dominant_colors": "Naturels eau claire Charlevoix; sombres eau colorée",
+      "hook_size": "#4–#8",
+      "local_notes": "",
+      "contributed_by": "ACVG / guides Charlevoix",
+      "last_updated": "",
+      "validated": "",
+      "source_reference": "FQSA"
+    },
+    {
+      "river": "Rivière Malbaie",
+      "river_slug": "riviere_malbaie",
+      "region": "Charlevoix",
+      "classic_flies": [
+        "Green Highlander",
+        "Rusty Rat",
+        "Silver Doctor",
+        "Jock Scott"
+      ],
+      "dry_surface_flies": [
+        "Bomber",
+        "Irresistible",
+        "Wulff Royal"
+      ],
+      "wet_nymph_flies": [
+        "Blue Charm",
+        "March Brown",
+        "Hairy Mary"
+      ],
+      "tube_flies": [
+        "Willie Gunn",
+        "Frances",
+        "Cascade"
+      ],
+      "best_months": "Juil–Sept",
+      "dominant_colors": "Classiques Charlevoix; eau froide favorise mouches plus grandes",
+      "hook_size": "#2–#6",
+      "local_notes": "",
+      "contributed_by": "Saumon Malbaie / guides locaux",
+      "last_updated": "",
+      "validated": "✓ Validé",
+      "source_reference": "Saumon Malbaie"
+    },
+    {
+      "river": "Rivière à Mars",
+      "river_slug": "riviere_a_mars",
+      "region": "Saguenay–LSJ",
+      "classic_flies": [
+        "Rusty Rat",
+        "Green Highlander",
+        "Hairy Mary"
+      ],
+      "dry_surface_flies": [
+        "Bomber",
+        "Buck Bug",
+        "Elk Hair Caddis"
+      ],
+      "wet_nymph_flies": [
+        "Blue Charm",
+        "Silver Rat",
+        "Hairy Mary"
+      ],
+      "tube_flies": [
+        "Frances",
+        "Cascade"
+      ],
+      "best_months": "Juil–Sept",
+      "dominant_colors": "Classiques; couleurs vives après pluie Saguenay",
+      "hook_size": "#4–#8",
+      "local_notes": "",
+      "contributed_by": "Contact Nature / guides",
+      "last_updated": "",
+      "validated": "",
+      "source_reference": "FQSA"
+    },
+    {
+      "river": "Rivière Petit-Saguenay",
+      "river_slug": "riviere_petit_saguenay",
+      "region": "Saguenay–LSJ",
+      "classic_flies": [
+        "Rusty Rat",
+        "Green Highlander"
+      ],
+      "dry_surface_flies": [
+        "Bomber",
+        "Wulff"
+      ],
+      "wet_nymph_flies": [
+        "Blue Charm",
+        "Hairy Mary"
+      ],
+      "tube_flies": [
+        "Frances"
+      ],
+      "best_months": "Juil–Août",
+      "dominant_colors": "Petite rivière: tailles #6-#8 conseillées",
+      "hook_size": "#6–#8",
+      "local_notes": "",
+      "contributed_by": "Assoc. Petit-Saguenay",
+      "last_updated": "",
+      "validated": "",
+      "source_reference": "FQSA"
+    },
+    {
+      "river": "Rivière Saint-Jean (Saguenay)",
+      "river_slug": "riviere_saint_jean_saguenay",
+      "region": "Saguenay–LSJ",
+      "classic_flies": [
+        "Rusty Rat",
+        "Green Highlander",
+        "Silver Doctor"
+      ],
+      "dry_surface_flies": [
+        "Bomber",
+        "Elk Hair Caddis",
+        "Buck Bug"
+      ],
+      "wet_nymph_flies": [
+        "Blue Charm",
+        "Hairy Mary",
+        "Silver Rat"
+      ],
+      "tube_flies": [
+        "Frances",
+        "Cascade",
+        "Willie Gunn"
+      ],
+      "best_months": "Juil–Sept",
+      "dominant_colors": "Couleurs vives après crues Saguenay",
+      "hook_size": "#4–#8",
+      "local_notes": "",
+      "contributed_by": "Corp. gestion SJ-Saguenay",
+      "last_updated": "",
+      "validated": "",
+      "source_reference": "FQSA"
+    },
+    {
+      "river": "Rivière Sainte-Marguerite",
+      "river_slug": "riviere_sainte_marguerite",
+      "region": "Côte-Nord",
+      "classic_flies": [
+        "Green Highlander",
+        "Rusty Rat",
+        "Silver Doctor",
+        "Cascapédia"
+      ],
+      "dry_surface_flies": [
+        "Bomber",
+        "White Bomber",
+        "Buck Bug",
+        "Bomber orange"
+      ],
+      "wet_nymph_flies": [
+        "Blue Charm",
+        "Silver Rat",
+        "Hairy Mary",
+        "March Brown"
+      ],
+      "tube_flies": [
+        "Willie Gunn",
+        "Cascade",
+        "Frances",
+        "Black Frances"
+      ],
+      "best_months": "Juin–Sept",
+      "dominant_colors": "Eau froide Côte-Nord: mouches plus grandes; vert dominant",
+      "hook_size": "#2–#6",
+      "local_notes": "",
+      "contributed_by": "Assoc. Ste-Marguerite / guides",
+      "last_updated": "",
+      "validated": "✓ Validé",
+      "source_reference": "Assoc. Ste-Marguerite"
+    },
+    {
+      "river": "Rivière des Escoumins",
+      "river_slug": "riviere_des_escoumins",
+      "region": "Côte-Nord",
+      "classic_flies": [
+        "Green Highlander",
+        "Rusty Rat",
+        "Silver Doctor"
+      ],
+      "dry_surface_flies": [
+        "Bomber",
+        "White Wulff",
+        "Buck Bug"
+      ],
+      "wet_nymph_flies": [
+        "Blue Charm",
+        "Hairy Mary",
+        "Silver Rat"
+      ],
+      "tube_flies": [
+        "Willie Gunn",
+        "Frances",
+        "Cascade"
+      ],
+      "best_months": "Juin–Sept",
+      "dominant_colors": "Côte-Nord: classiques avec teintes vertes/argentées",
+      "hook_size": "#2–#6",
+      "local_notes": "",
+      "contributed_by": "Corp. gestion Escoumins",
+      "last_updated": "",
+      "validated": "",
+      "source_reference": "Corp. Escoumins"
+    },
+    {
+      "river": "Rivière Godbout",
+      "river_slug": "riviere_godbout",
+      "region": "Côte-Nord",
+      "classic_flies": [
+        "Green Highlander",
+        "Rusty Rat",
+        "Jock Scott",
+        "Silver Doctor"
+      ],
+      "dry_surface_flies": [
+        "Bomber",
+        "White Bomber",
+        "Irresistible"
+      ],
+      "wet_nymph_flies": [
+        "Blue Charm",
+        "March Brown",
+        "Hairy Mary",
+        "Silver Rat"
+      ],
+      "tube_flies": [
+        "Willie Gunn",
+        "Cascade",
+        "Frances"
+      ],
+      "best_months": "Juin–Sept",
+      "dominant_colors": "Eau très froide Côte-Nord: grandes mouches #2-#4 efficaces",
+      "hook_size": "#2–#6",
+      "local_notes": "",
+      "contributed_by": "CDTE Godbout / guides",
+      "last_updated": "",
+      "validated": "✓ Validé",
+      "source_reference": "CDTE Godbout"
+    }
+  ]
+}

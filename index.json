@@ -1,0 +1,159 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-02-28",
+  "description": "Quebec Atlantic Salmon Database — pools, rivers, flows, temperatures, flies",
+  "total_pools": 1354,
+  "total_rivers": 24,
+  "files": {
+    "pools": "data/pools.json",
+    "rivers": "data/rivers.json",
+    "flies": "data/flies.json"
+  },
+  "cdn_base": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/quebec-salmon-data@main/",
+  "rivers_list": [
+    {
+      "id": "grande_cascapedia",
+      "name": "Grande Cascapédia",
+      "region": "Gaspésie",
+      "pool_count": 77
+    },
+    {
+      "id": "grande_riviere",
+      "name": "Grande-Rivière",
+      "region": "Gaspésie",
+      "pool_count": 43
+    },
+    {
+      "id": "riviere_a_mars",
+      "name": "Rivière à Mars",
+      "region": "Saguenay–Lac-Saint-Jean",
+      "pool_count": 93
+    },
+    {
+      "id": "riviere_bonaventure",
+      "name": "Rivière Bonaventure",
+      "region": "Gaspésie",
+      "pool_count": 96
+    },
+    {
+      "id": "riviere_cap_chat",
+      "name": "Rivière Cap-Chat",
+      "region": "Gaspésie",
+      "pool_count": 53
+    },
+    {
+      "id": "riviere_causapscal",
+      "name": "Rivière Causapscal",
+      "region": "Gaspésie",
+      "pool_count": 25
+    },
+    {
+      "id": "riviere_dartmouth",
+      "name": "Rivière Dartmouth",
+      "region": "Gaspésie",
+      "pool_count": 37
+    },
+    {
+      "id": "riviere_des_escoumins",
+      "name": "Rivière des Escoumins",
+      "region": "Côte-Nord",
+      "pool_count": 57
+    },
+    {
+      "id": "riviere_godbout",
+      "name": "Rivière Godbout",
+      "region": "Côte-Nord",
+      "pool_count": 37
+    },
+    {
+      "id": "riviere_du_gouffre",
+      "name": "Rivière du Gouffre",
+      "region": "Charlevoix",
+      "pool_count": 64
+    },
+    {
+      "id": "riviere_grand_pabos",
+      "name": "Rivière Grand Pabos",
+      "region": "Gaspésie",
+      "pool_count": 30
+    },
+    {
+      "id": "riviere_madeleine",
+      "name": "Rivière Madeleine",
+      "region": "Gaspésie",
+      "pool_count": 76
+    },
+    {
+      "id": "riviere_malbaie",
+      "name": "Rivière Malbaie",
+      "region": "Charlevoix",
+      "pool_count": 67
+    },
+    {
+      "id": "riviere_matapedia",
+      "name": "Rivière Matapédia",
+      "region": "Gaspésie / Bas-Saint-Laurent",
+      "pool_count": 106
+    },
+    {
+      "id": "riviere_mitis",
+      "name": "Rivière Mitis",
+      "region": "Bas-Saint-Laurent",
+      "pool_count": 33
+    },
+    {
+      "id": "riviere_nouvelle",
+      "name": "Rivière Nouvelle",
+      "region": "Gaspésie",
+      "pool_count": 57
+    },
+    {
+      "id": "riviere_patapedia",
+      "name": "Rivière Patapédia",
+      "region": "Gaspésie / Bas-Saint-Laurent",
+      "pool_count": 55
+    },
+    {
+      "id": "riviere_petit_pabos",
+      "name": "Rivière Petit Pabos",
+      "region": "Gaspésie",
+      "pool_count": 54
+    },
+    {
+      "id": "riviere_petit_saguenay",
+      "name": "Rivière Petit-Saguenay",
+      "region": "Saguenay–Lac-Saint-Jean",
+      "pool_count": 24
+    },
+    {
+      "id": "riviere_rimouski",
+      "name": "Rivière Rimouski",
+      "region": "Bas-Saint-Laurent",
+      "pool_count": 50
+    },
+    {
+      "id": "riviere_saint_jean_gaspe",
+      "name": "Rivière Saint-Jean (Gaspé)",
+      "region": "Gaspésie",
+      "pool_count": 22
+    },
+    {
+      "id": "riviere_saint_jean_saguenay",
+      "name": "Rivière Saint-Jean (Saguenay)",
+      "region": "Saguenay–Lac-Saint-Jean",
+      "pool_count": 42
+    },
+    {
+      "id": "riviere_sainte_marguerite",
+      "name": "Rivière Sainte-Marguerite",
+      "region": "Côte-Nord / Saguenay–Lac-Saint-Jean",
+      "pool_count": 106
+    },
+    {
+      "id": "riviere_york",
+      "name": "Rivière York",
+      "region": "Gaspésie",
+      "pool_count": 50
+    }
+  ]
+}
