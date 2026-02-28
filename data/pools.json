@@ -13,8 +13,11 @@
       "pool_number": "24",
       "name": "Trout Brook",
       "full_name": "Fosse 24 - Trout Brook",
-      "lat": 48.17,
-      "lon": -65.885
+      "lat": 48.2547222,
+      "lon": -65.8986111,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPKXV"
     },
     {
       "id": "grande_cascapedia_25",
@@ -25,8 +28,11 @@
       "pool_number": "25",
       "name": "Little Curly",
       "full_name": "Fosse 25 - Little Curly",
-      "lat": 48.1755,
-      "lon": -65.893
+      "lat": 48.2772222,
+      "lon": -65.9011111,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPKXO"
     },
     {
       "id": "grande_cascapedia_26",
@@ -37,8 +43,11 @@
       "pool_number": "26",
       "name": "New Derreen / Skimenac",
       "full_name": "Fosse 26 - New Derreen / Skimenac",
-      "lat": 48.181,
-      "lon": -65.901
+      "lat": 48.2941667,
+      "lon": -65.7213889,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPKWM"
     },
     {
       "id": "grande_cascapedia_27",
@@ -49,8 +58,11 @@
       "pool_number": "27",
       "name": "Big Jack",
       "full_name": "Fosse 27 - Big Jack",
-      "lat": 48.1865,
-      "lon": -65.909
+      "lat": 48.6725,
+      "lon": -66.1994444,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPKZR"
     },
     {
       "id": "grande_cascapedia_28",
@@ -61,8 +73,11 @@
       "pool_number": "28",
       "name": "Big Curly / Mrs. Guest",
       "full_name": "Fosse 28 - Big Curly / Mrs. Guest",
-      "lat": 48.192,
-      "lon": -65.917
+      "lat": 48.4077778,
+      "lon": -66.0102778,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPKYG"
     },
     {
       "id": "grande_cascapedia_29",
@@ -85,8 +100,11 @@
       "pool_number": "30",
       "name": "Limestone",
       "full_name": "Fosse 30 - Limestone",
-      "lat": 48.203,
-      "lon": -65.933
+      "lat": 48.3363889,
+      "lon": -65.9855556,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPKYR"
     },
     {
       "id": "grande_cascapedia_31",
@@ -109,8 +127,11 @@
       "pool_number": "32",
       "name": "Upper Jam",
       "full_name": "Fosse 32 - Upper Jam",
-      "lat": 48.214,
-      "lon": -65.949
+      "lat": 48.3444444,
+      "lon": -65.9902778,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPKYO"
     },
     {
       "id": "grande_cascapedia_33",
@@ -121,8 +142,11 @@
       "pool_number": "33",
       "name": "Dimock",
       "full_name": "Fosse 33 - Dimock",
-      "lat": 48.2195,
-      "lon": -65.957
+      "lat": 48.3566667,
+      "lon": -66.0011111,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPKYN"
     },
     {
       "id": "grande_cascapedia_34",
@@ -133,8 +157,11 @@
       "pool_number": "34",
       "name": "Douglas",
       "full_name": "Fosse 34 - Douglas",
-      "lat": 48.225,
-      "lon": -65.965
+      "lat": 48.3619444,
+      "lon": -66.0044444,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPKYM"
     },
     {
       "id": "grande_cascapedia_35",
@@ -145,8 +172,11 @@
       "pool_number": "35",
       "name": "Big Pico",
       "full_name": "Fosse 35 - Big Pico",
-      "lat": 48.2305,
-      "lon": -65.973
+      "lat": 48.3780556,
+      "lon": -66.0075,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPKYL"
     },
     {
       "id": "grande_cascapedia_36",
@@ -157,8 +187,11 @@
       "pool_number": "36",
       "name": "Little Pico",
       "full_name": "Fosse 36 - Little Pico",
-      "lat": 48.236,
-      "lon": -65.981
+      "lat": 48.3886111,
+      "lon": -66.0052778,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPKYK"
     },
     {
       "id": "grande_cascapedia_37",
@@ -169,8 +202,11 @@
       "pool_number": "37",
       "name": "Turner Brook",
       "full_name": "Fosse 37 - Turner Brook",
-      "lat": 48.2415,
-      "lon": -65.989
+      "lat": 48.3944444,
+      "lon": -66.0041667,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPKYI"
     },
     {
       "id": "grande_cascapedia_38",
@@ -325,8 +361,11 @@
       "pool_number": "50",
       "name": "Big John",
       "full_name": "Fosse 50 - Big John",
-      "lat": 48.313,
-      "lon": -66.093
+      "lat": 48.4772222,
+      "lon": -66.0516667,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLEQ"
     },
     {
       "id": "grande_cascapedia_51",
@@ -337,8 +376,11 @@
       "pool_number": "51",
       "name": "Old Tracadie",
       "full_name": "Fosse 51 - Old Tracadie",
-      "lat": 48.3185,
-      "lon": -66.101
+      "lat": 48.4886111,
+      "lon": -66.0588889,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPKZD"
     },
     {
       "id": "grande_cascapedia_52",
@@ -373,8 +415,11 @@
       "pool_number": "54",
       "name": "Lower Lost Channel",
       "full_name": "Fosse 54 - Lower Lost Channel",
-      "lat": 48.335,
-      "lon": -66.125
+      "lat": 48.6647222,
+      "lon": -66.19,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPKZT"
     },
     {
       "id": "grande_cascapedia_55",
@@ -385,8 +430,11 @@
       "pool_number": "55",
       "name": "Upper Lost Channel",
       "full_name": "Fosse 55 - Upper Lost Channel",
-      "lat": 48.3405,
-      "lon": -66.133
+      "lat": 48.5108333,
+      "lon": -66.0780556,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPKZA"
     },
     {
       "id": "grande_cascapedia_56",
@@ -409,8 +457,11 @@
       "pool_number": "57",
       "name": "Charlie Valley Rock",
       "full_name": "Fosse 57 - Charlie Valley Rock",
-      "lat": 48.3515,
-      "lon": -66.149
+      "lat": 48.515,
+      "lon": -66.0944444,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPKYX"
     },
     {
       "id": "grande_cascapedia_58",
@@ -661,8 +712,11 @@
       "pool_number": "77",
       "name": "Forks",
       "full_name": "Fosse 77 - Forks",
-      "lat": 48.467,
-      "lon": -66.317
+      "lat": 48.6461111,
+      "lon": -66.1758333,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPKYW"
     },
     {
       "id": "grande_cascapedia_79",
@@ -733,8 +787,11 @@
       "pool_number": "87",
       "name": "Stairs",
       "full_name": "Fosse 87 - Stairs",
-      "lat": 48.5,
-      "lon": -66.365
+      "lat": 48.6730556,
+      "lon": -66.2547222,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPKZM"
     },
     {
       "id": "grande_cascapedia_88",
@@ -805,8 +862,11 @@
       "pool_number": "91",
       "name": "Lynn's Brook",
       "full_name": "Fosse 91 - Lynn's Brook",
-      "lat": 48.533,
-      "lon": -66.413
+      "lat": 48.6488889,
+      "lon": -66.3647222,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLAB"
     },
     {
       "id": "grande_cascapedia_94",
@@ -829,8 +889,11 @@
       "pool_number": "96",
       "name": "Hunter's Point",
       "full_name": "Fosse 96 - Hunter's Point",
-      "lat": 48.544,
-      "lon": -66.429
+      "lat": 48.6430556,
+      "lon": -66.3791667,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLES"
     },
     {
       "id": "grande_cascapedia_97",
@@ -853,8 +916,11 @@
       "pool_number": "100",
       "name": "Gordon",
       "full_name": "Fosse 100 - Gordon",
-      "lat": 48.555,
-      "lon": -66.445
+      "lat": 48.6377778,
+      "lon": -66.3919444,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLEU"
     },
     {
       "id": "grande_cascapedia_101",
@@ -937,8 +1003,11 @@
       "pool_number": "10",
       "name": "Fosse Albert",
       "full_name": "Fosse 10 - Fosse Albert",
-      "lat": 48.408,
-      "lon": -64.498
+      "lat": 48.4561111,
+      "lon": -64.535,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLKS"
     },
     {
       "id": "grande_riviere_11",
@@ -985,8 +1054,11 @@
       "pool_number": "14",
       "name": "La Grande Coupe",
       "full_name": "Fosse 14 - La Grande Coupe",
-      "lat": 48.428,
-      "lon": -64.518
+      "lat": 48.4713889,
+      "lon": -64.5208333,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EMWDM"
     },
     {
       "id": "grande_riviere_15",
@@ -997,8 +1069,11 @@
       "pool_number": "15",
       "name": "La Petite Coupe",
       "full_name": "Fosse 15 - La Petite Coupe",
-      "lat": 48.433,
-      "lon": -64.523
+      "lat": 48.4152778,
+      "lon": -64.5147222,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLHC"
     },
     {
       "id": "grande_riviere_16",
@@ -1021,8 +1096,11 @@
       "pool_number": "17",
       "name": "La Fabrique",
       "full_name": "Fosse 17 - La Fabrique",
-      "lat": 48.443,
-      "lon": -64.533
+      "lat": 48.4180556,
+      "lon": -64.5102778,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EMOUB"
     },
     {
       "id": "grande_riviere_20",
@@ -1033,8 +1111,11 @@
       "pool_number": "20",
       "name": "Lower Carberry",
       "full_name": "Fosse 20 - Lower Carberry",
-      "lat": 48.448,
-      "lon": -64.538
+      "lat": 48.4222222,
+      "lon": -64.5083333,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPUGV"
     },
     {
       "id": "grande_riviere_21",
@@ -1045,8 +1126,11 @@
       "pool_number": "21",
       "name": "Upper Carberry",
       "full_name": "Fosse 21 - Upper Carberry",
-      "lat": 48.453,
-      "lon": -64.543
+      "lat": 48.4238889,
+      "lon": -64.5066667,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLHE"
     },
     {
       "id": "grande_riviere_22",
@@ -1057,8 +1141,11 @@
       "pool_number": "22",
       "name": "Ruisseau Montagnais",
       "full_name": "Fosse 22 - Ruisseau Montagnais",
-      "lat": 48.458,
-      "lon": -64.548
+      "lat": 48.4280556,
+      "lon": -64.5025,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPKTY"
     },
     {
       "id": "grande_riviere_23",
@@ -1069,8 +1156,11 @@
       "pool_number": "23",
       "name": "Lower Still",
       "full_name": "Fosse 23 - Lower Still",
-      "lat": 48.463,
-      "lon": -64.553
+      "lat": 48.4297222,
+      "lon": -64.5033333,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLHF"
     },
     {
       "id": "grande_riviere_24",
@@ -1081,8 +1171,11 @@
       "pool_number": "24",
       "name": "Be Still",
       "full_name": "Fosse 24 - Be Still",
-      "lat": 48.468,
-      "lon": -64.558
+      "lat": 48.4313889,
+      "lon": -64.5066667,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLHH"
     },
     {
       "id": "grande_riviere_25",
@@ -1093,8 +1186,11 @@
       "pool_number": "25",
       "name": "Trois Couronnes",
       "full_name": "Fosse 25 - Trois Couronnes",
-      "lat": 48.473,
-      "lon": -64.563
+      "lat": 48.4347222,
+      "lon": -64.5083333,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPUFF"
     },
     {
       "id": "grande_riviere_26",
@@ -1105,8 +1201,11 @@
       "pool_number": "26",
       "name": "Thibault",
       "full_name": "Fosse 26 - Thibault",
-      "lat": 48.478,
-      "lon": -64.568
+      "lat": 48.4391667,
+      "lon": -64.5094444,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPUHA"
     },
     {
       "id": "grande_riviere_27",
@@ -1117,8 +1216,11 @@
       "pool_number": "27",
       "name": "Roche à Thibault",
       "full_name": "Fosse 27 - Roche à Thibault",
-      "lat": 48.483,
-      "lon": -64.573
+      "lat": 48.4419444,
+      "lon": -64.5136111,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLGS"
     },
     {
       "id": "grande_riviere_28",
@@ -1129,8 +1231,11 @@
       "pool_number": "28",
       "name": "Upper Still",
       "full_name": "Fosse 28 - Upper Still",
-      "lat": 48.488,
-      "lon": -64.578
+      "lat": 48.4411111,
+      "lon": -64.5111111,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLGP"
     },
     {
       "id": "grande_riviere_30",
@@ -1141,8 +1246,11 @@
       "pool_number": "30",
       "name": "Rapide Blanc",
       "full_name": "Fosse 30 - Rapide Blanc",
-      "lat": 48.493,
-      "lon": -64.583
+      "lat": 48.45,
+      "lon": -64.5286111,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EODWH"
     },
     {
       "id": "grande_riviere_31",
@@ -1153,8 +1261,11 @@
       "pool_number": "31",
       "name": "Blue Ledge",
       "full_name": "Fosse 31 - Blue Ledge",
-      "lat": 48.498,
-      "lon": -64.588
+      "lat": 48.4663889,
+      "lon": -64.5169444,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLGL"
     },
     {
       "id": "grande_riviere_32",
@@ -1165,8 +1276,11 @@
       "pool_number": "32",
       "name": "Ledge",
       "full_name": "Fosse 32 - Ledge",
-      "lat": 48.503,
-      "lon": -64.593
+      "lat": 48.4661111,
+      "lon": -64.5169444,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLGD"
     },
     {
       "id": "grande_riviere_33",
@@ -1177,8 +1291,11 @@
       "pool_number": "33",
       "name": "Swift",
       "full_name": "Fosse 33 - Swift",
-      "lat": 48.508,
-      "lon": -64.598
+      "lat": 48.47,
+      "lon": -64.5180556,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLGM"
     },
     {
       "id": "grande_riviere_34",
@@ -1201,8 +1318,11 @@
       "pool_number": "35",
       "name": "Sardine Box",
       "full_name": "Fosse 35 - Sardine Box",
-      "lat": 48.518,
-      "lon": -64.608
+      "lat": 48.4722222,
+      "lon": -64.5269444,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLGN"
     },
     {
       "id": "grande_riviere_37",
@@ -1213,8 +1333,11 @@
       "pool_number": "37",
       "name": "Bruce",
       "full_name": "Fosse 37 - Bruce",
-      "lat": 48.523,
-      "lon": -64.613
+      "lat": 48.475,
+      "lon": -64.5297222,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLGO"
     },
     {
       "id": "grande_riviere_38",
@@ -1225,8 +1348,11 @@
       "pool_number": "38",
       "name": "Walker",
       "full_name": "Fosse 38 - Walker",
-      "lat": 48.528,
-      "lon": -64.618
+      "lat": 48.4780556,
+      "lon": -64.5305556,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLGB"
     },
     {
       "id": "grande_riviere_40",
@@ -1237,8 +1363,11 @@
       "pool_number": "40",
       "name": "La Chute",
       "full_name": "Fosse 40 - La Chute",
-      "lat": 48.533,
-      "lon": -64.623
+      "lat": 48.4802778,
+      "lon": -64.5497222,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EMXSG"
     },
     {
       "id": "grande_riviere_41",
@@ -1249,8 +1378,11 @@
       "pool_number": "41",
       "name": "La Glacière",
       "full_name": "Fosse 41 - La Glacière",
-      "lat": 48.538,
-      "lon": -64.628
+      "lat": 48.4819444,
+      "lon": -64.5538889,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLGF"
     },
     {
       "id": "grande_riviere_42",
@@ -1273,8 +1405,11 @@
       "pool_number": "43",
       "name": "Petite Malbaie",
       "full_name": "Fosse 43 - Petite Malbaie",
-      "lat": 48.548,
-      "lon": -64.638
+      "lat": 48.4947222,
+      "lon": -64.5638889,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLGC"
     },
     {
       "id": "grande_riviere_44",
@@ -1285,8 +1420,11 @@
       "pool_number": "44",
       "name": "Lafontaine",
       "full_name": "Fosse 44 - Lafontaine",
-      "lat": 48.5515,
-      "lon": -64.6415
+      "lat": 48.5075,
+      "lon": -64.5722222,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPUEZ"
     },
     {
       "id": "grande_riviere_45",
@@ -1297,8 +1435,11 @@
       "pool_number": "45",
       "name": "Grande-Malbaie",
       "full_name": "Fosse 45 - Grande-Malbaie",
-      "lat": 48.555,
-      "lon": -64.645
+      "lat": 48.5080556,
+      "lon": -64.5777778,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLFE"
     },
     {
       "id": "grande_riviere_46",
@@ -1309,8 +1450,11 @@
       "pool_number": "46",
       "name": "Division",
       "full_name": "Fosse 46 - Division",
-      "lat": 48.557,
-      "lon": -64.647
+      "lat": 48.5119444,
+      "lon": -64.5777778,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLFD"
     },
     {
       "id": "grande_riviere_47",
@@ -1321,8 +1465,11 @@
       "pool_number": "47",
       "name": "Loutre",
       "full_name": "Fosse 47 - Loutre",
-      "lat": 48.559,
-      "lon": -64.649
+      "lat": 48.5183333,
+      "lon": -64.5825,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLFF"
     },
     {
       "id": "grande_riviere_48",
@@ -1333,8 +1480,11 @@
       "pool_number": "48",
       "name": "Traverse",
       "full_name": "Fosse 48 - Traverse",
-      "lat": 48.561,
-      "lon": -64.651
+      "lat": 48.5202778,
+      "lon": -64.5855556,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLKP"
     },
     {
       "id": "grande_riviere_50",
@@ -1345,8 +1495,11 @@
       "pool_number": "50",
       "name": "L'Île",
       "full_name": "Fosse 50 - L'Île",
-      "lat": 48.563,
-      "lon": -64.653
+      "lat": 48.5216667,
+      "lon": -64.5880556,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPUEX"
     },
     {
       "id": "grande_riviere_51",
@@ -1357,8 +1510,11 @@
       "pool_number": "51",
       "name": "Roche Ronde",
       "full_name": "Fosse 51 - Roche Ronde",
-      "lat": 48.565,
-      "lon": -64.655
+      "lat": 48.5244444,
+      "lon": -64.5947222,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLFB"
     },
     {
       "id": "grande_riviere_52",
@@ -1369,8 +1525,11 @@
       "pool_number": "52",
       "name": "Paisible",
       "full_name": "Fosse 52 - Paisible",
-      "lat": 48.567,
-      "lon": -64.657
+      "lat": 48.5311111,
+      "lon": -64.6111111,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLFC"
     },
     {
       "id": "grande_riviere_53",
@@ -1381,8 +1540,11 @@
       "pool_number": "53",
       "name": "Renard",
       "full_name": "Fosse 53 - Renard",
-      "lat": 48.569,
-      "lon": -64.659
+      "lat": 48.5347222,
+      "lon": -64.6147222,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLFA"
     },
     {
       "id": "grande_riviere_54",
@@ -1393,8 +1555,11 @@
       "pool_number": "54",
       "name": "Grand Sablé",
       "full_name": "Fosse 54 - Grand Sablé",
-      "lat": 48.571,
-      "lon": -64.661
+      "lat": 48.5375,
+      "lon": -64.6163889,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLEZ"
     },
     {
       "id": "grande_riviere_60",
@@ -1405,8 +1570,11 @@
       "pool_number": "60",
       "name": "Tacon",
       "full_name": "Fosse 60 - Tacon",
-      "lat": 48.573,
-      "lon": -64.663
+      "lat": 48.5369444,
+      "lon": -64.6233333,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLEY"
     },
     {
       "id": "grande_riviere_61",
@@ -1417,8 +1585,11 @@
       "pool_number": "61",
       "name": "Fosse Verte",
       "full_name": "Fosse 61 - Fosse Verte",
-      "lat": 48.575,
-      "lon": -64.665
+      "lat": 48.5375,
+      "lon": -64.6258333,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPUFK"
     },
     {
       "id": "grande_riviere_62",
@@ -1453,8 +1624,11 @@
       "pool_number": "1",
       "name": "(Fosse 1)",
       "full_name": "(Fosse 1)",
-      "lat": 48.337,
-      "lon": -70.88
+      "lat": 48.3216667,
+      "lon": -70.8855556,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERFZA"
     },
     {
       "id": "riviere_a_mars_2",
@@ -2569,8 +2743,11 @@
       "pool_number": "6",
       "name": "La Roche",
       "full_name": "Fosse 6 - La Roche",
-      "lat": 48.047,
-      "lon": -65.482
+      "lat": 48.085,
+      "lon": -65.4469445,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLAP"
     },
     {
       "id": "riviere_bonaventure_7",
@@ -2581,8 +2758,11 @@
       "pool_number": "7",
       "name": "Green",
       "full_name": "Fosse 7 - Green",
-      "lat": 48.0525,
-      "lon": -65.4875
+      "lat": 48.1819444,
+      "lon": -65.5344444,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLDM"
     },
     {
       "id": "riviere_bonaventure_8",
@@ -2593,8 +2773,11 @@
       "pool_number": "8",
       "name": "Du Rapide Plat",
       "full_name": "Fosse 8 - Du Rapide Plat",
-      "lat": 48.058,
-      "lon": -65.493
+      "lat": 48.0877778,
+      "lon": -65.46,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLAM"
     },
     {
       "id": "riviere_bonaventure_9",
@@ -2605,8 +2788,11 @@
       "pool_number": "9",
       "name": "Barker",
       "full_name": "Fosse 9 - Barker",
-      "lat": 48.0635,
-      "lon": -65.4985
+      "lat": 48.2833333,
+      "lon": -65.5741667,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLDX"
     },
     {
       "id": "riviere_bonaventure_10",
@@ -2617,8 +2803,11 @@
       "pool_number": "10",
       "name": "Ferlatte",
       "full_name": "Fosse 10 - Ferlatte",
-      "lat": 48.069,
-      "lon": -65.504
+      "lat": 48.0927778,
+      "lon": -65.4666667,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLKC"
     },
     {
       "id": "riviere_bonaventure_11",
@@ -2629,8 +2818,11 @@
       "pool_number": "11",
       "name": "Run",
       "full_name": "Fosse 11 - Run",
-      "lat": 48.0745,
-      "lon": -65.5095
+      "lat": 48.0972222,
+      "lon": -65.4627778,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLBJ"
     },
     {
       "id": "riviere_bonaventure_12",
@@ -2641,8 +2833,11 @@
       "pool_number": "12",
       "name": "Trou creux",
       "full_name": "Fosse 12 - Trou creux",
-      "lat": 48.08,
-      "lon": -65.515
+      "lat": 48.0988889,
+      "lon": -65.4638889,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLBI"
     },
     {
       "id": "riviere_bonaventure_13",
@@ -2653,8 +2848,11 @@
       "pool_number": "13",
       "name": "Coude",
       "full_name": "Fosse 13 - Coude",
-      "lat": 48.0855,
-      "lon": -65.5205
+      "lat": 48.1013889,
+      "lon": -65.4663889,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLJK"
     },
     {
       "id": "riviere_bonaventure_14",
@@ -2665,8 +2863,11 @@
       "pool_number": "14",
       "name": "Malin",
       "full_name": "Fosse 14 - Malin",
-      "lat": 48.091,
-      "lon": -65.526
+      "lat": 48.1030555,
+      "lon": -65.4602778,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLBB"
     },
     {
       "id": "riviere_bonaventure_15",
@@ -2677,8 +2878,11 @@
       "pool_number": "15",
       "name": "Wetstone",
       "full_name": "Fosse 15 - Wetstone",
-      "lat": 48.0965,
-      "lon": -65.5315
+      "lat": 48.1061111,
+      "lon": -65.4694444,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLBP"
     },
     {
       "id": "riviere_bonaventure_16",
@@ -2689,8 +2893,11 @@
       "pool_number": "16",
       "name": "Rock",
       "full_name": "Fosse 16 - Rock",
-      "lat": 48.102,
-      "lon": -65.537
+      "lat": 48.2213889,
+      "lon": -65.5755556,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLDS"
     },
     {
       "id": "riviere_bonaventure_17",
@@ -2701,8 +2908,11 @@
       "pool_number": "17",
       "name": "Grassy",
       "full_name": "Fosse 17 - Grassy",
-      "lat": 48.1075,
-      "lon": -65.5425
+      "lat": 48.1113889,
+      "lon": -65.4702778,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLCE"
     },
     {
       "id": "riviere_bonaventure_18",
@@ -2713,8 +2923,11 @@
       "pool_number": "18",
       "name": "Pin Rouge",
       "full_name": "Fosse 18 - Pin Rouge",
-      "lat": 48.113,
-      "lon": -65.548
+      "lat": 48.1219444,
+      "lon": -65.4719444,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLCD"
     },
     {
       "id": "riviere_bonaventure_19",
@@ -2725,8 +2938,11 @@
       "pool_number": "19",
       "name": "White Ledge",
       "full_name": "Fosse 19 - White Ledge",
-      "lat": 48.1185,
-      "lon": -65.5535
+      "lat": 48.1238889,
+      "lon": -65.4736111,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLBT"
     },
     {
       "id": "riviere_bonaventure_20",
@@ -2737,8 +2953,11 @@
       "pool_number": "20",
       "name": "Trou à Jos",
       "full_name": "Fosse 20 - Trou à Jos",
-      "lat": 48.124,
-      "lon": -65.559
+      "lat": 48.1252778,
+      "lon": -65.475,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLBS"
     },
     {
       "id": "riviere_bonaventure_21",
@@ -2749,8 +2968,11 @@
       "pool_number": "21",
       "name": "Snake",
       "full_name": "Fosse 21 - Snake",
-      "lat": 48.1295,
-      "lon": -65.5645
+      "lat": 48.1297222,
+      "lon": -65.4769445,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLCX"
     },
     {
       "id": "riviere_bonaventure_22",
@@ -2761,8 +2983,11 @@
       "pool_number": "22",
       "name": "Jug",
       "full_name": "Fosse 22 - Jug",
-      "lat": 48.135,
-      "lon": -65.57
+      "lat": 48.2391667,
+      "lon": -65.5683333,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLEC"
     },
     {
       "id": "riviere_bonaventure_23",
@@ -2773,8 +2998,11 @@
       "pool_number": "23",
       "name": "Base Line",
       "full_name": "Fosse 23 - Base Line",
-      "lat": 48.1405,
-      "lon": -65.5755
+      "lat": 48.1405556,
+      "lon": -65.4847222,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLCW"
     },
     {
       "id": "riviere_bonaventure_24",
@@ -2785,8 +3013,11 @@
       "pool_number": "24",
       "name": "Salmon",
       "full_name": "Fosse 24 - Salmon",
-      "lat": 48.146,
-      "lon": -65.581
+      "lat": 48.2975,
+      "lon": -65.5602778,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLCA"
     },
     {
       "id": "riviere_bonaventure_25",
@@ -2797,8 +3028,11 @@
       "pool_number": "25",
       "name": "Félix",
       "full_name": "Fosse 25 - Félix",
-      "lat": 48.1515,
-      "lon": -65.5865
+      "lat": 48.1469444,
+      "lon": -65.4838889,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLCS"
     },
     {
       "id": "riviere_bonaventure_26",
@@ -2809,8 +3043,11 @@
       "pool_number": "26",
       "name": "Upper Rock",
       "full_name": "Fosse 26 - Upper Rock",
-      "lat": 48.157,
-      "lon": -65.592
+      "lat": 48.2158334,
+      "lon": -65.5861111,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPKUK"
     },
     {
       "id": "riviere_bonaventure_27",
@@ -2821,8 +3058,11 @@
       "pool_number": "27",
       "name": "Docteur",
       "full_name": "Fosse 27 - Docteur",
-      "lat": 48.1625,
-      "lon": -65.5975
+      "lat": 48.1497222,
+      "lon": -65.4847222,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLKD"
     },
     {
       "id": "riviere_bonaventure_28",
@@ -2833,8 +3073,11 @@
       "pool_number": "28",
       "name": "Jonction",
       "full_name": "Fosse 28 - Jonction",
-      "lat": 48.168,
-      "lon": -65.603
+      "lat": 48.1544445,
+      "lon": -65.4908333,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLCP"
     },
     {
       "id": "riviere_bonaventure_29",
@@ -2845,8 +3088,11 @@
       "pool_number": "29",
       "name": "Duval",
       "full_name": "Fosse 29 - Duval",
-      "lat": 48.1735,
-      "lon": -65.6085
+      "lat": 48.1566667,
+      "lon": -65.4933334,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLCO"
     },
     {
       "id": "riviere_bonaventure_30",
@@ -2857,8 +3103,11 @@
       "pool_number": "30",
       "name": "Lunch",
       "full_name": "Fosse 30 - Lunch",
-      "lat": 48.179,
-      "lon": -65.614
+      "lat": 48.1588889,
+      "lon": -65.4980556,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLCN"
     },
     {
       "id": "riviere_bonaventure_31",
@@ -2869,8 +3118,11 @@
       "pool_number": "31",
       "name": "Rotten Brook",
       "full_name": "Fosse 31 - Rotten Brook",
-      "lat": 48.1845,
-      "lon": -65.6195
+      "lat": 48.16,
+      "lon": -65.5072223,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLHN"
     },
     {
       "id": "riviere_bonaventure_32",
@@ -2881,8 +3133,11 @@
       "pool_number": "32",
       "name": "Whisky Brook",
       "full_name": "Fosse 32 - Whisky Brook",
-      "lat": 48.19,
-      "lon": -65.625
+      "lat": 48.1661111,
+      "lon": -65.5161111,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLCL"
     },
     {
       "id": "riviere_bonaventure_33",
@@ -2893,8 +3148,11 @@
       "pool_number": "33",
       "name": "Smith",
       "full_name": "Fosse 33 - Smith",
-      "lat": 48.1955,
-      "lon": -65.6305
+      "lat": 48.1611111,
+      "lon": -65.5119445,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLCJ"
     },
     {
       "id": "riviere_bonaventure_34",
@@ -2905,8 +3163,11 @@
       "pool_number": "34",
       "name": "Slide",
       "full_name": "Fosse 34 - Slide",
-      "lat": 48.201,
-      "lon": -65.636
+      "lat": 48.1688889,
+      "lon": -65.5152778,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLCK"
     },
     {
       "id": "riviere_bonaventure_35",
@@ -2917,8 +3178,11 @@
       "pool_number": "35",
       "name": "Murphy's Camp",
       "full_name": "Fosse 35 - Murphy's Camp",
-      "lat": 48.2065,
-      "lon": -65.6415
+      "lat": 48.1727778,
+      "lon": -65.5155555,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLCH"
     },
     {
       "id": "riviere_bonaventure_36",
@@ -2929,8 +3193,11 @@
       "pool_number": "36",
       "name": "Emile's Luck",
       "full_name": "Fosse 36 - Emile's Luck",
-      "lat": 48.212,
-      "lon": -65.647
+      "lat": 48.1730556,
+      "lon": -65.5191667,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLCY"
     },
     {
       "id": "riviere_bonaventure_37",
@@ -2941,8 +3208,11 @@
       "pool_number": "37",
       "name": "Long",
       "full_name": "Fosse 37 - Long",
-      "lat": 48.2175,
-      "lon": -65.6525
+      "lat": 48.3525,
+      "lon": -65.7483333,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPKWZ"
     },
     {
       "id": "riviere_bonaventure_38",
@@ -2953,8 +3223,11 @@
       "pool_number": "38",
       "name": "Molson",
       "full_name": "Fosse 38 - Molson",
-      "lat": 48.223,
-      "lon": -65.658
+      "lat": 48.1783333,
+      "lon": -65.5366666,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLDP"
     },
     {
       "id": "riviere_bonaventure_40",
@@ -2965,8 +3238,11 @@
       "pool_number": "40",
       "name": "Upper Camp",
       "full_name": "Fosse 40 - Upper Camp",
-      "lat": 48.2285,
-      "lon": -65.6635
+      "lat": 48.1805555,
+      "lon": -65.5344444,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLDO"
     },
     {
       "id": "riviere_bonaventure_41",
@@ -2977,8 +3253,11 @@
       "pool_number": "41",
       "name": "Ruisseau Creux",
       "full_name": "Fosse 41 - Ruisseau Creux",
-      "lat": 48.234,
-      "lon": -65.669
+      "lat": 48.2502778,
+      "lon": -65.7158333,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPKWI"
     },
     {
       "id": "riviere_bonaventure_42",
@@ -3001,8 +3280,11 @@
       "pool_number": "43",
       "name": "Simmons",
       "full_name": "Fosse 43 - Simmons",
-      "lat": 48.245,
-      "lon": -65.68
+      "lat": 48.1880556,
+      "lon": -65.5372222,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLDK"
     },
     {
       "id": "riviere_bonaventure_44",
@@ -3013,8 +3295,11 @@
       "pool_number": "44",
       "name": "Comical-John",
       "full_name": "Fosse 44 - Comical-John",
-      "lat": 48.2505,
-      "lon": -65.6855
+      "lat": 48.1844445,
+      "lon": -65.5327778,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLDI"
     },
     {
       "id": "riviere_bonaventure_45",
@@ -3025,8 +3310,11 @@
       "pool_number": "45",
       "name": "Bruce",
       "full_name": "Fosse 45 - Bruce",
-      "lat": 48.256,
-      "lon": -65.691
+      "lat": 48.1880556,
+      "lon": -65.5419445,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLDJ"
     },
     {
       "id": "riviere_bonaventure_46",
@@ -3037,8 +3325,11 @@
       "pool_number": "46",
       "name": "Comical-Bess",
       "full_name": "Fosse 46 - Comical-Bess",
-      "lat": 48.2615,
-      "lon": -65.6965
+      "lat": 48.1858334,
+      "lon": -65.5458333,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLDH"
     },
     {
       "id": "riviere_bonaventure_48",
@@ -3049,8 +3340,11 @@
       "pool_number": "48",
       "name": "Ruth",
       "full_name": "Fosse 48 - Ruth",
-      "lat": 48.267,
-      "lon": -65.702
+      "lat": 48.1852778,
+      "lon": -65.5538889,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLHM"
     },
     {
       "id": "riviere_bonaventure_49",
@@ -3061,8 +3355,11 @@
       "pool_number": "49",
       "name": "Du Portage",
       "full_name": "Fosse 49 - Du Portage",
-      "lat": 48.2725,
-      "lon": -65.7075
+      "lat": 48.1858333,
+      "lon": -65.5497222,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLDG"
     },
     {
       "id": "riviere_bonaventure_50",
@@ -3073,8 +3370,11 @@
       "pool_number": "50",
       "name": "Kelly",
       "full_name": "Fosse 50 - Kelly",
-      "lat": 48.278,
-      "lon": -65.713
+      "lat": 48.3675,
+      "lon": -65.7633333,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLJY"
     },
     {
       "id": "riviere_bonaventure_51",
@@ -3085,8 +3385,11 @@
       "pool_number": "51",
       "name": "Burnt Camp",
       "full_name": "Fosse 51 - Burnt Camp",
-      "lat": 48.2835,
-      "lon": -65.7185
+      "lat": 48.1880556,
+      "lon": -65.5619444,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLDB"
     },
     {
       "id": "riviere_bonaventure_52",
@@ -3097,8 +3400,11 @@
       "pool_number": "52",
       "name": "Gallagher",
       "full_name": "Fosse 52 - Gallagher",
-      "lat": 48.289,
-      "lon": -65.724
+      "lat": 48.1897222,
+      "lon": -65.5616667,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLDC"
     },
     {
       "id": "riviere_bonaventure_53",
@@ -3109,8 +3415,11 @@
       "pool_number": "53",
       "name": "Fairy",
       "full_name": "Fosse 53 - Fairy",
-      "lat": 48.2945,
-      "lon": -65.7295
+      "lat": 48.1925,
+      "lon": -65.5672222,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLDA"
     },
     {
       "id": "riviere_bonaventure_54",
@@ -3121,8 +3430,11 @@
       "pool_number": "54",
       "name": "Eleanor",
       "full_name": "Fosse 54 - Eleanor",
-      "lat": 48.3,
-      "lon": -65.735
+      "lat": 48.2,
+      "lon": -65.5638889,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLCZ"
     },
     {
       "id": "riviere_bonaventure_55",
@@ -3169,8 +3481,11 @@
       "pool_number": "58",
       "name": "Double Trouble",
       "full_name": "Fosse 58 - Double Trouble",
-      "lat": 48.322,
-      "lon": -65.757
+      "lat": 48.2122222,
+      "lon": -65.5777778,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLDV"
     },
     {
       "id": "riviere_bonaventure_59",
@@ -3181,8 +3496,11 @@
       "pool_number": "59",
       "name": "Trois Frères",
       "full_name": "Fosse 59 - Trois Frères",
-      "lat": 48.3275,
-      "lon": -65.7625
+      "lat": 48.2105556,
+      "lon": -65.5836111,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLJL"
     },
     {
       "id": "riviere_bonaventure_60",
@@ -3193,8 +3511,11 @@
       "pool_number": "60",
       "name": "Cox",
       "full_name": "Fosse 60 - Cox",
-      "lat": 48.333,
-      "lon": -65.768
+      "lat": 48.4227778,
+      "lon": -65.6794444,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPKXG"
     },
     {
       "id": "riviere_bonaventure_61",
@@ -3205,8 +3526,11 @@
       "pool_number": "61",
       "name": "Narcisse",
       "full_name": "Fosse 61 - Narcisse",
-      "lat": 48.3385,
-      "lon": -65.7735
+      "lat": 48.2452778,
+      "lon": -65.7222222,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EOQWC"
     },
     {
       "id": "riviere_bonaventure_62",
@@ -3529,8 +3853,11 @@
       "pool_number": "88",
       "name": "(Fosse 88)",
       "full_name": "(Fosse 88)",
-      "lat": 48.487,
-      "lon": -65.922
+      "lat": 48.4458333,
+      "lon": -66.0336111,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPKYZ"
     },
     {
       "id": "riviere_bonaventure_89",
@@ -3721,8 +4048,11 @@
       "pool_number": "1",
       "name": "Les Bouleaux",
       "full_name": "Fosse 1 - Les Bouleaux",
-      "lat": 49.095,
-      "lon": -66.688
+      "lat": 49.0947222,
+      "lon": -66.6683333,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EJWUO"
     },
     {
       "id": "riviere_cap_chat_2",
@@ -4357,8 +4687,11 @@
       "pool_number": "1",
       "name": "2 Mille",
       "full_name": "Fosse 1 - 2 Mille",
-      "lat": 48.218,
-      "lon": -67.327
+      "lat": 48.4427778,
+      "lon": -67.1694444,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERFYE"
     },
     {
       "id": "riviere_causapscal_2",
@@ -4369,8 +4702,11 @@
       "pool_number": "2",
       "name": "3 Mille",
       "full_name": "Fosse 2 - 3 Mille",
-      "lat": 48.227,
-      "lon": -67.332
+      "lat": 48.1841667,
+      "lon": -67.1533333,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERGFD"
     },
     {
       "id": "riviere_causapscal_3",
@@ -4381,8 +4717,11 @@
       "pool_number": "3",
       "name": "4 Mille",
       "full_name": "Fosse 3 - 4 Mille",
-      "lat": 48.236,
-      "lon": -67.337
+      "lat": 48.2836111,
+      "lon": -67.2458333,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERGFE"
     },
     {
       "id": "riviere_causapscal_4",
@@ -4429,8 +4768,11 @@
       "pool_number": "7",
       "name": "Des Aulnes",
       "full_name": "Fosse 7 - Des Aulnes",
-      "lat": 48.272,
-      "lon": -67.357
+      "lat": 48.3863889,
+      "lon": -67.1772222,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERJLN"
     },
     {
       "id": "riviere_causapscal_8",
@@ -4513,8 +4855,11 @@
       "pool_number": "14",
       "name": "Neese",
       "full_name": "Fosse 14 - Neese",
-      "lat": 48.335,
-      "lon": -67.392
+      "lat": 48.3611111,
+      "lon": -67.5313889,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERHEQ"
     },
     {
       "id": "riviere_causapscal_15",
@@ -4525,8 +4870,11 @@
       "pool_number": "15",
       "name": "Potvin",
       "full_name": "Fosse 15 - Potvin",
-      "lat": 48.344,
-      "lon": -67.397
+      "lat": 48.3283333,
+      "lon": -67.55,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERHEU"
     },
     {
       "id": "riviere_causapscal_16",
@@ -4537,8 +4885,11 @@
       "pool_number": "16",
       "name": "La Florence",
       "full_name": "Fosse 16 - La Florence",
-      "lat": 48.353,
-      "lon": -67.402
+      "lat": 48.3758333,
+      "lon": -67.5125,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERHEP"
     },
     {
       "id": "riviere_causapscal_17",
@@ -4549,8 +4900,11 @@
       "pool_number": "17",
       "name": "Castonguay",
       "full_name": "Fosse 17 - Castonguay",
-      "lat": 48.362,
-      "lon": -67.407
+      "lat": 48.4463889,
+      "lon": -67.4397222,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERHEE"
     },
     {
       "id": "riviere_causapscal_18",
@@ -4657,8 +5011,11 @@
       "pool_number": "3",
       "name": "Diotte",
       "full_name": "Fosse 3 - Diotte",
-      "lat": 48.83,
-      "lon": -64.49
+      "lat": 48.9075,
+      "lon": -64.6027778,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPKVI"
     },
     {
       "id": "riviere_dartmouth_5",
@@ -4669,8 +5026,11 @@
       "pool_number": "5",
       "name": "Narcisse",
       "full_name": "Fosse 5 - Narcisse",
-      "lat": 48.837,
-      "lon": -64.494
+      "lat": 49.0127778,
+      "lon": -64.7402778,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQSLA"
     },
     {
       "id": "riviere_dartmouth_6",
@@ -4693,8 +5053,11 @@
       "pool_number": "7",
       "name": "Freddy",
       "full_name": "Fosse 7 - Freddy",
-      "lat": 48.851,
-      "lon": -64.502
+      "lat": 48.9186111,
+      "lon": -64.6275,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPKVE"
     },
     {
       "id": "riviere_dartmouth_8",
@@ -4705,8 +5068,11 @@
       "pool_number": "8",
       "name": "Fortin",
       "full_name": "Fosse 8 - Fortin",
-      "lat": 48.858,
-      "lon": -64.506
+      "lat": 48.9222222,
+      "lon": -64.6280556,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPKVK"
     },
     {
       "id": "riviere_dartmouth_9",
@@ -4717,8 +5083,11 @@
       "pool_number": "9",
       "name": "Petite Fourche",
       "full_name": "Fosse 9 - Petite Fourche",
-      "lat": 48.865,
-      "lon": -64.51
+      "lat": 49.0072222,
+      "lon": -64.7258333,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQSKN"
     },
     {
       "id": "riviere_dartmouth_10",
@@ -4729,8 +5098,11 @@
       "pool_number": "10",
       "name": "Smoke",
       "full_name": "Fosse 10 - Smoke",
-      "lat": 48.872,
-      "lon": -64.514
+      "lat": 48.9288889,
+      "lon": -64.6344444,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQABK"
     },
     {
       "id": "riviere_dartmouth_12",
@@ -4741,8 +5113,11 @@
       "pool_number": "12",
       "name": "Adams",
       "full_name": "Fosse 12 - Adams",
-      "lat": 48.879,
-      "lon": -64.518
+      "lat": 48.9338889,
+      "lon": -64.6430556,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQABL"
     },
     {
       "id": "riviere_dartmouth_13",
@@ -4753,8 +5128,11 @@
       "pool_number": "13",
       "name": "Stony Brook",
       "full_name": "Fosse 13 - Stony Brook",
-      "lat": 48.886,
-      "lon": -64.522
+      "lat": 48.9402778,
+      "lon": -64.6519444,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQABM"
     },
     {
       "id": "riviere_dartmouth_14",
@@ -4777,8 +5155,11 @@
       "pool_number": "15",
       "name": "Lemay",
       "full_name": "Fosse 15 - Lemay",
-      "lat": 48.9,
-      "lon": -64.53
+      "lat": 48.9433333,
+      "lon": -64.6633333,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPKVD"
     },
     {
       "id": "riviere_dartmouth_16",
@@ -4789,8 +5170,11 @@
       "pool_number": "16",
       "name": "Home",
       "full_name": "Fosse 16 - Home",
-      "lat": 48.907,
-      "lon": -64.534
+      "lat": 48.9436111,
+      "lon": -64.6683333,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQABO"
     },
     {
       "id": "riviere_dartmouth_17",
@@ -4801,8 +5185,11 @@
       "pool_number": "17",
       "name": "Grave",
       "full_name": "Fosse 17 - Grave",
-      "lat": 48.914,
-      "lon": -64.538
+      "lat": 48.9458333,
+      "lon": -64.6691667,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQABP"
     },
     {
       "id": "riviere_dartmouth_18",
@@ -4813,8 +5200,11 @@
       "pool_number": "18",
       "name": "Snake",
       "full_name": "Fosse 18 - Snake",
-      "lat": 48.921,
-      "lon": -64.542
+      "lat": 48.9508333,
+      "lon": -64.6711111,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQABQ"
     },
     {
       "id": "riviere_dartmouth_19",
@@ -4825,8 +5215,11 @@
       "pool_number": "19",
       "name": "Smiley",
       "full_name": "Fosse 19 - Smiley",
-      "lat": 48.928,
-      "lon": -64.546
+      "lat": 48.9552778,
+      "lon": -64.6816667,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQABR"
     },
     {
       "id": "riviere_dartmouth_21",
@@ -4837,8 +5230,11 @@
       "pool_number": "21",
       "name": "Lower Lady Step",
       "full_name": "Fosse 21 - Lower Lady Step",
-      "lat": 48.935,
-      "lon": -64.55
+      "lat": 48.9611111,
+      "lon": -64.6916667,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQABS"
     },
     {
       "id": "riviere_dartmouth_22",
@@ -4849,8 +5245,11 @@
       "pool_number": "22",
       "name": "Upper Lady Step",
       "full_name": "Fosse 22 - Upper Lady Step",
-      "lat": 48.942,
-      "lon": -64.554
+      "lat": 48.9644444,
+      "lon": -64.7022222,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQABT"
     },
     {
       "id": "riviere_dartmouth_24",
@@ -4861,8 +5260,11 @@
       "pool_number": "24",
       "name": "Rock",
       "full_name": "Fosse 24 - Rock",
-      "lat": 48.949,
-      "lon": -64.558
+      "lat": 48.9672222,
+      "lon": -64.7027778,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQABU"
     },
     {
       "id": "riviere_dartmouth_25",
@@ -4897,8 +5299,11 @@
       "pool_number": "27",
       "name": "Ladder",
       "full_name": "Fosse 27 - Ladder",
-      "lat": 48.97,
-      "lon": -64.57
+      "lat": 48.9711111,
+      "lon": -64.7019444,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQABX"
     },
     {
       "id": "riviere_dartmouth_28",
@@ -4909,8 +5314,11 @@
       "pool_number": "28",
       "name": "Gorge",
       "full_name": "Fosse 28 - Gorge",
-      "lat": 48.977,
-      "lon": -64.574
+      "lat": 48.9722222,
+      "lon": -64.7013889,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQABY"
     },
     {
       "id": "riviere_dartmouth_29",
@@ -4921,8 +5329,11 @@
       "pool_number": "29",
       "name": "Ledges",
       "full_name": "Fosse 29 - Ledges",
-      "lat": 48.984,
-      "lon": -64.578
+      "lat": 48.9775,
+      "lon": -64.7013889,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQABZ"
     },
     {
       "id": "riviere_dartmouth_30",
@@ -4945,8 +5356,11 @@
       "pool_number": "31",
       "name": "L'Île",
       "full_name": "Fosse 31 - L'Île",
-      "lat": 48.998,
-      "lon": -64.586
+      "lat": 48.9905556,
+      "lon": -64.6972222,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQACB"
     },
     {
       "id": "riviere_dartmouth_32",
@@ -4957,8 +5371,11 @@
       "pool_number": "32",
       "name": "Breeder",
       "full_name": "Fosse 32 - Breeder",
-      "lat": 49.005,
-      "lon": -64.59
+      "lat": 48.9916667,
+      "lon": -64.6944444,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQACC"
     },
     {
       "id": "riviere_dartmouth_34",
@@ -4993,8 +5410,11 @@
       "pool_number": "36",
       "name": "Coude",
       "full_name": "Fosse 36 - Coude",
-      "lat": 49.026,
-      "lon": -64.602
+      "lat": 48.9944444,
+      "lon": -64.715,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQACE"
     },
     {
       "id": "riviere_dartmouth_37",
@@ -5041,8 +5461,11 @@
       "pool_number": "41",
       "name": "Jam",
       "full_name": "Fosse 41 - Jam",
-      "lat": 49.054,
-      "lon": -64.618
+      "lat": 49.0133333,
+      "lon": -64.7361111,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQACH"
     },
     {
       "id": "riviere_dartmouth_43",
@@ -5077,8 +5500,11 @@
       "pool_number": "48",
       "name": "Paul-Émile",
       "full_name": "Fosse 48 - Paul-Émile",
-      "lat": 49.075,
-      "lon": -64.63
+      "lat": 49.0241667,
+      "lon": -64.7558333,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQACJ"
     },
     {
       "id": "riviere_dartmouth_51",
@@ -5089,8 +5515,11 @@
       "pool_number": "51",
       "name": "Moose Bogan",
       "full_name": "Fosse 51 - Moose Bogan",
-      "lat": 49.082,
-      "lon": -64.634
+      "lat": 49.0302778,
+      "lon": -64.7658333,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQACK"
     },
     {
       "id": "riviere_des_escoumins_1",
@@ -5101,8 +5530,11 @@
       "pool_number": "1",
       "name": "Portes de l'Enfer",
       "full_name": "Fosse 1 - Portes de l'Enfer",
-      "lat": 48.355,
-      "lon": -69.4
+      "lat": 48.464722,
+      "lon": -69.629167,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ESDHQ"
     },
     {
       "id": "riviere_des_escoumins_2",
@@ -5317,8 +5749,11 @@
       "pool_number": "26",
       "name": "Grande-Vallée",
       "full_name": "Fosse 26 - Grande-Vallée",
-      "lat": 48.445,
-      "lon": -69.544
+      "lat": 48.466667,
+      "lon": -69.706944,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ESDHR"
     },
     {
       "id": "riviere_des_escoumins_27",
@@ -5413,8 +5848,11 @@
       "pool_number": "34",
       "name": "Fontaine",
       "full_name": "Fosse 34 - Fontaine",
-      "lat": 48.485,
-      "lon": -69.608
+      "lat": 48.472222,
+      "lon": -69.691667,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ESFJU"
     },
     {
       "id": "riviere_des_escoumins_35",
@@ -5461,8 +5899,11 @@
       "pool_number": "40",
       "name": "(Fosse 40)",
       "full_name": "(Fosse 40)",
-      "lat": 48.505,
-      "lon": -69.64
+      "lat": 48.470833,
+      "lon": -69.723611,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ESDZM"
     },
     {
       "id": "riviere_des_escoumins_41",
@@ -5785,8 +6226,11 @@
       "pool_number": "1",
       "name": "Bas du pont",
       "full_name": "Fosse 1 - Bas du pont",
-      "lat": 49.32,
-      "lon": -67.605
+      "lat": 49.3302778,
+      "lon": -67.6552778,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EMLOV"
     },
     {
       "id": "riviere_godbout_2",
@@ -5809,8 +6253,11 @@
       "pool_number": "3",
       "name": "Kate",
       "full_name": "Fosse 3 - Kate",
-      "lat": 49.332,
-      "lon": -67.613
+      "lat": 49.3230556,
+      "lon": -67.6425,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EMLOO"
     },
     {
       "id": "riviere_godbout_4",
@@ -5845,8 +6292,11 @@
       "pool_number": "6",
       "name": "Glacy",
       "full_name": "Fosse 6 - Glacy",
-      "lat": 49.35,
-      "lon": -67.625
+      "lat": 49.4663889,
+      "lon": -67.6469444,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EMPPR"
     },
     {
       "id": "riviere_godbout_7",
@@ -5857,8 +6307,11 @@
       "pool_number": "7",
       "name": "Upper Belle",
       "full_name": "Fosse 7 - Upper Belle",
-      "lat": 49.356,
-      "lon": -67.629
+      "lat": 49.4430556,
+      "lon": -67.6366667,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EMUHC"
     },
     {
       "id": "riviere_godbout_8",
@@ -5893,8 +6346,11 @@
       "pool_number": "10",
       "name": "Stone",
       "full_name": "Fosse 10 - Stone",
-      "lat": 49.374,
-      "lon": -67.641
+      "lat": 49.3291667,
+      "lon": -67.6536111,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EMLOU"
     },
     {
       "id": "riviere_godbout_11",
@@ -5905,8 +6361,11 @@
       "pool_number": "11",
       "name": "Indienne",
       "full_name": "Fosse 11 - Indienne",
-      "lat": 49.38,
-      "lon": -67.645
+      "lat": 49.4647222,
+      "lon": -67.6455556,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EMPPP"
     },
     {
       "id": "riviere_godbout_12",
@@ -5965,8 +6424,11 @@
       "pool_number": "16",
       "name": "Chute Upper Pool",
       "full_name": "Fosse 16 - Chute Upper Pool",
-      "lat": 49.41,
-      "lon": -67.665
+      "lat": 49.3336111,
+      "lon": -67.6641667,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EMLOZ"
     },
     {
       "id": "riviere_godbout_17",
@@ -5977,8 +6439,11 @@
       "pool_number": "17",
       "name": "Amédée",
       "full_name": "Fosse 17 - Amédée",
-      "lat": 49.416,
-      "lon": -67.669
+      "lat": 49.3452778,
+      "lon": -67.6838889,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EMLPA"
     },
     {
       "id": "riviere_godbout_18",
@@ -5989,8 +6454,11 @@
       "pool_number": "18",
       "name": "Du Draveur",
       "full_name": "Fosse 18 - Du Draveur",
-      "lat": 49.422,
-      "lon": -67.673
+      "lat": 49.3641667,
+      "lon": -67.6844444,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EMLPB"
     },
     {
       "id": "riviere_godbout_19",
@@ -6001,8 +6469,11 @@
       "pool_number": "19",
       "name": "Charles",
       "full_name": "Fosse 19 - Charles",
-      "lat": 49.428,
-      "lon": -67.677
+      "lat": 49.3680556,
+      "lon": -67.6780556,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EMLPC"
     },
     {
       "id": "riviere_godbout_20",
@@ -6025,8 +6496,11 @@
       "pool_number": "21",
       "name": "Éden",
       "full_name": "Fosse 21 - Éden",
-      "lat": 49.44,
-      "lon": -67.685
+      "lat": 49.4058333,
+      "lon": -67.6633333,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EMNDA"
     },
     {
       "id": "riviere_godbout_22",
@@ -6037,8 +6511,11 @@
       "pool_number": "22",
       "name": "Zénon",
       "full_name": "Fosse 22 - Zénon",
-      "lat": 49.446,
-      "lon": -67.689
+      "lat": 49.4144444,
+      "lon": -67.6536111,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EMNDB"
     },
     {
       "id": "riviere_godbout_23",
@@ -6049,8 +6526,11 @@
       "pool_number": "23",
       "name": "Edmond",
       "full_name": "Fosse 23 - Edmond",
-      "lat": 49.452,
-      "lon": -67.693
+      "lat": 49.4161111,
+      "lon": -67.6530556,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EMNDC"
     },
     {
       "id": "riviere_godbout_24",
@@ -6073,8 +6553,11 @@
       "pool_number": "25",
       "name": "Éthier",
       "full_name": "Fosse 25 - Éthier",
-      "lat": 49.464,
-      "lon": -67.701
+      "lat": 49.4238889,
+      "lon": -67.6475,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EMNDD"
     },
     {
       "id": "riviere_godbout_26",
@@ -6085,8 +6568,11 @@
       "pool_number": "26",
       "name": "Étienne",
       "full_name": "Fosse 26 - Étienne",
-      "lat": 49.47,
-      "lon": -67.705
+      "lat": 49.435,
+      "lon": -67.6466667,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EMNEI"
     },
     {
       "id": "riviere_godbout_27",
@@ -6109,8 +6595,11 @@
       "pool_number": "28",
       "name": "Des Larmes",
       "full_name": "Fosse 28 - Des Larmes",
-      "lat": 49.482,
-      "lon": -67.713
+      "lat": 49.4397222,
+      "lon": -67.6366667,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EMPPK"
     },
     {
       "id": "riviere_godbout_29",
@@ -6121,8 +6610,11 @@
       "pool_number": "29",
       "name": "Elliot",
       "full_name": "Fosse 29 - Elliot",
-      "lat": 49.488,
-      "lon": -67.717
+      "lat": 49.4447222,
+      "lon": -67.6363889,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EMPPL"
     },
     {
       "id": "riviere_godbout_30",
@@ -6133,8 +6625,11 @@
       "pool_number": "30",
       "name": "Du Notaire",
       "full_name": "Fosse 30 - Du Notaire",
-      "lat": 49.494,
-      "lon": -67.721
+      "lat": 49.4491667,
+      "lon": -67.6405556,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EMPPM"
     },
     {
       "id": "riviere_godbout_31",
@@ -6157,8 +6652,11 @@
       "pool_number": "32",
       "name": "Du Pont",
       "full_name": "Fosse 32 - Du Pont",
-      "lat": 49.506,
-      "lon": -67.729
+      "lat": 49.6302778,
+      "lon": -67.4886111,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQMKX"
     },
     {
       "id": "riviere_godbout_33",
@@ -6169,8 +6667,11 @@
       "pool_number": "33",
       "name": "14-Ouest",
       "full_name": "Fosse 33 - 14-Ouest",
-      "lat": 49.512,
-      "lon": -67.733
+      "lat": 49.638889,
+      "lon": -67.738611,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EMPQE"
     },
     {
       "id": "riviere_godbout_34",
@@ -6193,8 +6694,11 @@
       "pool_number": "35",
       "name": "De l'Espoir",
       "full_name": "Fosse 35 - De l'Espoir",
-      "lat": 49.524,
-      "lon": -67.741
+      "lat": 49.4852778,
+      "lon": -67.6463889,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EMPPT"
     },
     {
       "id": "riviere_godbout_36",
@@ -6205,8 +6709,11 @@
       "pool_number": "36",
       "name": "Bec-Sie",
       "full_name": "Fosse 36 - Bec-Sie",
-      "lat": 49.53,
-      "lon": -67.745
+      "lat": 49.618889,
+      "lon": -67.736111,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EMPQC"
     },
     {
       "id": "riviere_godbout_37",
@@ -6217,8 +6724,11 @@
       "pool_number": "37",
       "name": "De la Descente",
       "full_name": "Fosse 37 - De la Descente",
-      "lat": 49.536,
-      "lon": -67.749
+      "lat": 49.524722,
+      "lon": -67.651389,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EMPPW"
     },
     {
       "id": "riviere_du_gouffre_1",
@@ -6241,8 +6751,11 @@
       "pool_number": "2",
       "name": "du Camping",
       "full_name": "Fosse 2 - du Camping",
-      "lat": 47.3395,
-      "lon": -70.4838
+      "lat": 47.6519444,
+      "lon": -70.4491667,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQRPB"
     },
     {
       "id": "riviere_du_gouffre_3",
@@ -6253,8 +6766,11 @@
       "pool_number": "3",
       "name": "à Laurent",
       "full_name": "Fosse 3 - à Laurent",
-      "lat": 47.346,
-      "lon": -70.4862
+      "lat": 47.634435,
+      "lon": -70.478977,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQRPQ"
     },
     {
       "id": "riviere_du_gouffre_4",
@@ -6265,8 +6781,11 @@
       "pool_number": "4",
       "name": "de la Croix",
       "full_name": "Fosse 4 - de la Croix",
-      "lat": 47.3525,
-      "lon": -70.4885
+      "lat": 47.562188,
+      "lon": -70.540113,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYFN"
     },
     {
       "id": "riviere_du_gouffre_5",
@@ -6277,8 +6796,11 @@
       "pool_number": "5",
       "name": "à Patrice",
       "full_name": "Fosse 5 - à Patrice",
-      "lat": 47.359,
-      "lon": -70.491
+      "lat": 47.510072,
+      "lon": -70.504772,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQRQL"
     },
     {
       "id": "riviere_du_gouffre_6",
@@ -6289,8 +6811,11 @@
       "pool_number": "6",
       "name": "Émmanuel",
       "full_name": "Fosse 6 - Émmanuel",
-      "lat": 47.3645,
-      "lon": -70.493
+      "lat": 47.489113,
+      "lon": -70.509219,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQRQX"
     },
     {
       "id": "riviere_du_gouffre_7",
@@ -6313,8 +6838,11 @@
       "pool_number": "8",
       "name": "Eustache",
       "full_name": "Fosse 8 - Eustache",
-      "lat": 47.3755,
-      "lon": -70.4975
+      "lat": 47.514497,
+      "lon": -70.505875,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQRQI"
     },
     {
       "id": "riviere_du_gouffre_9",
@@ -6325,8 +6853,11 @@
       "pool_number": "9",
       "name": "des Aulnes",
       "full_name": "Fosse 9 - des Aulnes",
-      "lat": 47.381,
-      "lon": -70.4998
+      "lat": 47.516341,
+      "lon": -70.509605,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQRQH"
     },
     {
       "id": "riviere_du_gouffre_10",
@@ -6337,8 +6868,11 @@
       "pool_number": "10",
       "name": "La Bécasse",
       "full_name": "Fosse 10 - La Bécasse",
-      "lat": 47.386,
-      "lon": -70.5015
+      "lat": 47.520493,
+      "lon": -70.506613,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQRQG"
     },
     {
       "id": "riviere_du_gouffre_11",
@@ -6361,8 +6895,11 @@
       "pool_number": "12",
       "name": "à Matou",
       "full_name": "Fosse 12 - à Matou",
-      "lat": 47.396,
-      "lon": -70.5055
+      "lat": 47.527577,
+      "lon": -70.511625,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYGM"
     },
     {
       "id": "riviere_du_gouffre_13",
@@ -6373,8 +6910,11 @@
       "pool_number": "13",
       "name": "Yvan",
       "full_name": "Fosse 13 - Yvan",
-      "lat": 47.401,
-      "lon": -70.5075
+      "lat": 47.5327778,
+      "lon": -70.5119444,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQRQB"
     },
     {
       "id": "riviere_du_gouffre_14",
@@ -6397,8 +6937,11 @@
       "pool_number": "15",
       "name": "du Méandre",
       "full_name": "Fosse 15 - du Méandre",
-      "lat": 47.411,
-      "lon": -70.5108
+      "lat": 47.5408333,
+      "lon": -70.5172222,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYGG"
     },
     {
       "id": "riviere_du_gouffre_16",
@@ -6469,8 +7012,11 @@
       "pool_number": "21",
       "name": "de la Mine",
       "full_name": "Fosse 21 - de la Mine",
-      "lat": 47.439,
-      "lon": -70.5202
+      "lat": 47.5513889,
+      "lon": -70.525,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYGD"
     },
     {
       "id": "riviere_du_gouffre_22",
@@ -6481,8 +7027,11 @@
       "pool_number": "22",
       "name": "de l'Île",
       "full_name": "Fosse 22 - de l'Île",
-      "lat": 47.4435,
-      "lon": -70.5218
+      "lat": 47.5533333,
+      "lon": -70.5227778,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYGB"
     },
     {
       "id": "riviere_du_gouffre_23",
@@ -6493,8 +7042,11 @@
       "pool_number": "23",
       "name": "du Cap Martin",
       "full_name": "Fosse 23 - du Cap Martin",
-      "lat": 47.448,
-      "lon": -70.5233
+      "lat": 47.6438889,
+      "lon": -70.4755556,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYEU"
     },
     {
       "id": "riviere_du_gouffre_24",
@@ -6505,8 +7057,11 @@
       "pool_number": "24",
       "name": "du Pont",
       "full_name": "Fosse 24 - du Pont",
-      "lat": 47.4522,
-      "lon": -70.5248
+      "lat": 47.560691,
+      "lon": -70.528227,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYFZ"
     },
     {
       "id": "riviere_du_gouffre_25",
@@ -6517,8 +7072,11 @@
       "pool_number": "25",
       "name": "du Ruisseau de l'Église",
       "full_name": "Fosse 25 - du Ruisseau de l'Église",
-      "lat": 47.4565,
-      "lon": -70.5263
+      "lat": 47.561683,
+      "lon": -70.536638,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYFU"
     },
     {
       "id": "riviere_du_gouffre_26",
@@ -6529,8 +7087,11 @@
       "pool_number": "26",
       "name": "Baptiste",
       "full_name": "Fosse 26 - Baptiste",
-      "lat": 47.4608,
-      "lon": -70.5278
+      "lat": 47.563016,
+      "lon": -70.535002,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYFT"
     },
     {
       "id": "riviere_du_gouffre_27",
@@ -6541,8 +7102,11 @@
       "pool_number": "27",
       "name": "Marc",
       "full_name": "Fosse 27 - Marc",
-      "lat": 47.4648,
-      "lon": -70.529
+      "lat": 47.5638889,
+      "lon": -70.5369444,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYFR"
     },
     {
       "id": "riviere_du_gouffre_28",
@@ -6553,8 +7117,11 @@
       "pool_number": "28",
       "name": "Lucien",
       "full_name": "Fosse 28 - Lucien",
-      "lat": 47.4688,
-      "lon": -70.5303
+      "lat": 47.5636111,
+      "lon": -70.5380556,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYFQ"
     },
     {
       "id": "riviere_du_gouffre_29",
@@ -6565,8 +7132,11 @@
       "pool_number": "29",
       "name": "Auguste",
       "full_name": "Fosse 29 - Auguste",
-      "lat": 47.4728,
-      "lon": -70.5316
+      "lat": 47.561075,
+      "lon": -70.537263,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYFP"
     },
     {
       "id": "riviere_du_gouffre_30",
@@ -6589,8 +7159,11 @@
       "pool_number": "31",
       "name": "Lorenzo",
       "full_name": "Fosse 31 - Lorenzo",
-      "lat": 47.4808,
-      "lon": -70.5342
+      "lat": 47.575329,
+      "lon": -70.535574,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQRPY"
     },
     {
       "id": "riviere_du_gouffre_32",
@@ -6601,8 +7174,11 @@
       "pool_number": "32",
       "name": "Lacue",
       "full_name": "Fosse 32 - Lacue",
-      "lat": 47.4848,
-      "lon": -70.5355
+      "lat": 47.5819444,
+      "lon": -70.5341667,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQRPX"
     },
     {
       "id": "riviere_du_gouffre_33",
@@ -6613,8 +7189,11 @@
       "pool_number": "33",
       "name": "Lilas",
       "full_name": "Fosse 33 - Lilas",
-      "lat": 47.4888,
-      "lon": -70.5368
+      "lat": 47.584977,
+      "lon": -70.534485,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYFO"
     },
     {
       "id": "riviere_du_gouffre_34",
@@ -6625,8 +7204,11 @@
       "pool_number": "34",
       "name": "des Six Arpents",
       "full_name": "Fosse 34 - des Six Arpents",
-      "lat": 47.4928,
-      "lon": -70.538
+      "lat": 47.5858333,
+      "lon": -70.5338889,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYFK"
     },
     {
       "id": "riviere_du_gouffre_35",
@@ -6637,8 +7219,11 @@
       "pool_number": "35",
       "name": "Lionel",
       "full_name": "Fosse 35 - Lionel",
-      "lat": 47.4968,
-      "lon": -70.5393
+      "lat": 47.5852778,
+      "lon": -70.5319444,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQRPW"
     },
     {
       "id": "riviere_du_gouffre_36",
@@ -6709,8 +7294,11 @@
       "pool_number": "41",
       "name": "Fillion",
       "full_name": "Fosse 41 - Fillion",
-      "lat": 47.5208,
-      "lon": -70.5468
+      "lat": 47.6025,
+      "lon": -70.5116667,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQRPU"
     },
     {
       "id": "riviere_du_gouffre_42",
@@ -6721,8 +7309,11 @@
       "pool_number": "42",
       "name": "des Gravel",
       "full_name": "Fosse 42 - des Gravel",
-      "lat": 47.5248,
-      "lon": -70.548
+      "lat": 47.6097222,
+      "lon": -70.5025,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYFE"
     },
     {
       "id": "riviere_du_gouffre_43",
@@ -6733,8 +7324,11 @@
       "pool_number": "43",
       "name": "Napoléon",
       "full_name": "Fosse 43 - Napoléon",
-      "lat": 47.5285,
-      "lon": -70.5492
+      "lat": 47.611097,
+      "lon": -70.498266,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQRPS"
     },
     {
       "id": "riviere_du_gouffre_44",
@@ -6757,8 +7351,11 @@
       "pool_number": "45",
       "name": "Éloi",
       "full_name": "Fosse 45 - Éloi",
-      "lat": 47.5358,
-      "lon": -70.5515
+      "lat": 47.6025,
+      "lon": -70.4841667,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYFC"
     },
     {
       "id": "riviere_du_gouffre_46",
@@ -6769,8 +7366,11 @@
       "pool_number": "46",
       "name": "Adélard",
       "full_name": "Fosse 46 - Adélard",
-      "lat": 47.5393,
-      "lon": -70.5526
+      "lat": 47.620949,
+      "lon": -70.487419,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYFB"
     },
     {
       "id": "riviere_du_gouffre_47",
@@ -6781,8 +7381,11 @@
       "pool_number": "47",
       "name": "des Tacons",
       "full_name": "Fosse 47 - des Tacons",
-      "lat": 47.5428,
-      "lon": -70.5538
+      "lat": 47.624652,
+      "lon": -70.484871,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQRPR"
     },
     {
       "id": "riviere_du_gouffre_48",
@@ -6793,8 +7396,11 @@
       "pool_number": "48",
       "name": "Moïse",
       "full_name": "Fosse 48 - Moïse",
-      "lat": 47.5463,
-      "lon": -70.5548
+      "lat": 47.627627,
+      "lon": -70.482924,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYFA"
     },
     {
       "id": "riviere_du_gouffre_49",
@@ -6805,8 +7411,11 @@
       "pool_number": "49",
       "name": "des Pointes",
       "full_name": "Fosse 49 - des Pointes",
-      "lat": 47.5498,
-      "lon": -70.5558
+      "lat": 47.630238,
+      "lon": -70.480602,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYEZ"
     },
     {
       "id": "riviere_du_gouffre_50",
@@ -6817,8 +7426,11 @@
       "pool_number": "50",
       "name": "du Gouffre",
       "full_name": "Fosse 50 - du Gouffre",
-      "lat": 47.5533,
-      "lon": -70.5568
+      "lat": 47.637588,
+      "lon": -70.477568,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYEX"
     },
     {
       "id": "riviere_du_gouffre_51",
@@ -6829,8 +7441,11 @@
       "pool_number": "51",
       "name": "Chicago",
       "full_name": "Fosse 51 - Chicago",
-      "lat": 47.5565,
-      "lon": -70.5577
+      "lat": 47.6422222,
+      "lon": -70.4763889,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYEV"
     },
     {
       "id": "riviere_du_gouffre_52",
@@ -6841,8 +7456,11 @@
       "pool_number": "52",
       "name": "du Barrage",
       "full_name": "Fosse 52 - du Barrage",
-      "lat": 47.5598,
-      "lon": -70.5587
+      "lat": 47.645274,
+      "lon": -70.473354,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYES"
     },
     {
       "id": "riviere_du_gouffre_53",
@@ -6853,8 +7471,11 @@
       "pool_number": "53",
       "name": "de l'Écorce",
       "full_name": "Fosse 53 - de l'Écorce",
-      "lat": 47.563,
-      "lon": -70.5596
+      "lat": 47.64558,
+      "lon": -70.471802,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYER"
     },
     {
       "id": "riviere_du_gouffre_54",
@@ -6865,8 +7486,11 @@
       "pool_number": "54",
       "name": "de la Cabane",
       "full_name": "Fosse 54 - de la Cabane",
-      "lat": 47.5662,
-      "lon": -70.5605
+      "lat": 47.646238,
+      "lon": -70.471485,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYEQ"
     },
     {
       "id": "riviere_du_gouffre_55",
@@ -6889,8 +7513,11 @@
       "pool_number": "56",
       "name": "Daniel",
       "full_name": "Fosse 56 - Daniel",
-      "lat": 47.5725,
-      "lon": -70.5622
+      "lat": 47.6480556,
+      "lon": -70.4708333,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYEO"
     },
     {
       "id": "riviere_du_gouffre_57",
@@ -6901,8 +7528,11 @@
       "pool_number": "57",
       "name": "Gabriel",
       "full_name": "Fosse 57 - Gabriel",
-      "lat": 47.5756,
-      "lon": -70.563
+      "lat": 47.646483,
+      "lon": -70.470063,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYEN"
     },
     {
       "id": "riviere_du_gouffre_58",
@@ -6913,8 +7543,11 @@
       "pool_number": "58",
       "name": "du Four",
       "full_name": "Fosse 58 - du Four",
-      "lat": 47.5787,
-      "lon": -70.5638
+      "lat": 47.64576,
+      "lon": -70.468349,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYEM"
     },
     {
       "id": "riviere_du_gouffre_59",
@@ -6925,8 +7558,11 @@
       "pool_number": "59",
       "name": "de la Roche",
       "full_name": "Fosse 59 - de la Roche",
-      "lat": 47.5818,
-      "lon": -70.5646
+      "lat": 47.6466667,
+      "lon": -70.4672222,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYEL"
     },
     {
       "id": "riviere_du_gouffre_60",
@@ -6937,8 +7573,11 @@
       "pool_number": "60",
       "name": "du Coudrier",
       "full_name": "Fosse 60 - du Coudrier",
-      "lat": 47.5848,
-      "lon": -70.5653
+      "lat": 47.6466667,
+      "lon": -70.4644444,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYEK"
     },
     {
       "id": "riviere_du_gouffre_61",
@@ -6949,8 +7588,11 @@
       "pool_number": "61",
       "name": "Thomas",
       "full_name": "Fosse 61 - Thomas",
-      "lat": 47.5878,
-      "lon": -70.566
+      "lat": 47.6469444,
+      "lon": -70.4630556,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYEJ"
     },
     {
       "id": "riviere_du_gouffre_62",
@@ -6961,8 +7603,11 @@
       "pool_number": "62",
       "name": "Louis-Philippe",
       "full_name": "Fosse 62 - Louis-Philippe",
-      "lat": 47.5908,
-      "lon": -70.5668
+      "lat": 47.513169,
+      "lon": -70.508591,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQRQJ"
     },
     {
       "id": "riviere_du_gouffre_63",
@@ -6973,8 +7618,11 @@
       "pool_number": "63",
       "name": "au Lièvre",
       "full_name": "Fosse 63 - au Lièvre",
-      "lat": 47.5938,
-      "lon": -70.5675
+      "lat": 47.6497222,
+      "lon": -70.4519444,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQRPP"
     },
     {
       "id": "riviere_du_gouffre_64",
@@ -6985,8 +7633,11 @@
       "pool_number": "64",
       "name": "d'en Haut",
       "full_name": "Fosse 64 - d'en Haut",
-      "lat": 47.5968,
-      "lon": -70.5682
+      "lat": 47.6513889,
+      "lon": -70.4472222,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQROZ"
     },
     {
       "id": "riviere_grand_pabos_1",
@@ -9301,8 +9952,11 @@
       "pool_number": "19",
       "name": "Mann",
       "full_name": "Fosse 19 - Mann",
-      "lat": 48.322,
-      "lon": -66.39
+      "lat": 48.125,
+      "lon": -66.3013889,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERGJS"
     },
     {
       "id": "riviere_matapedia_20",
@@ -9313,8 +9967,11 @@
       "pool_number": "20",
       "name": "Gulch",
       "full_name": "Fosse 20 - Gulch",
-      "lat": 48.33,
-      "lon": -66.41
+      "lat": 48.2422222,
+      "lon": -66.5011111,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERGLD"
     },
     {
       "id": "riviere_matapedia_21",
@@ -9325,8 +9982,11 @@
       "pool_number": "21",
       "name": "Haberslam",
       "full_name": "Fosse 21 - Haberslam",
-      "lat": 48.338,
-      "lon": -66.43
+      "lat": 48.2952778,
+      "lon": -66.5083333,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERGLT"
     },
     {
       "id": "riviere_matapedia_22",
@@ -9685,8 +10345,11 @@
       "pool_number": "51",
       "name": "Passe de l'île",
       "full_name": "Fosse 51 - Passe de l'île",
-      "lat": 48.548,
-      "lon": -66.955
+      "lat": 48.6444444,
+      "lon": -67.0927778,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EIQFH"
     },
     {
       "id": "riviere_matapedia_52",
@@ -9793,8 +10456,11 @@
       "pool_number": "60",
       "name": "McNeil",
       "full_name": "Fosse 60 - McNeil",
-      "lat": 48.602,
-      "lon": -67.09
+      "lat": 48.6447222,
+      "lon": -67.2758333,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EIQJR"
     },
     {
       "id": "riviere_matapedia_61",
@@ -9805,8 +10471,11 @@
       "pool_number": "61",
       "name": "Edgar",
       "full_name": "Fosse 61 - Edgar",
-      "lat": 48.608,
-      "lon": -67.105
+      "lat": 48.632174,
+      "lon": -67.168321,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EIOSV"
     },
     {
       "id": "riviere_matapedia_62",
@@ -9841,8 +10510,11 @@
       "pool_number": "64",
       "name": "Pont Couvert",
       "full_name": "Fosse 64 - Pont Couvert",
-      "lat": 48.626,
-      "lon": -67.15
+      "lat": 48.6458333,
+      "lon": -67.2588889,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EIRTE"
     },
     {
       "id": "riviere_matapedia_65",
@@ -9949,8 +10621,11 @@
       "pool_number": "73",
       "name": "Low Water",
       "full_name": "Fosse 73 - Low Water",
-      "lat": 48.68,
-      "lon": -67.285
+      "lat": 48.7,
+      "lon": -67.385,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EIPUF"
     },
     {
       "id": "riviere_matapedia_74",
@@ -9961,8 +10636,11 @@
       "pool_number": "74",
       "name": "Salmon Hole",
       "full_name": "Fosse 74 - Salmon Hole",
-      "lat": 48.686,
-      "lon": -67.3
+      "lat": 48.7175,
+      "lon": -67.4344444,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EIQQQ"
     },
     {
       "id": "riviere_matapedia_75",
@@ -9985,8 +10663,11 @@
       "pool_number": "76",
       "name": "Beaurivage",
       "full_name": "Fosse 76 - Beaurivage",
-      "lat": 48.698,
-      "lon": -67.33
+      "lat": 48.7266667,
+      "lon": -67.4169444,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPZYU"
     },
     {
       "id": "riviere_matapedia_77",
@@ -9997,8 +10678,11 @@
       "pool_number": "77",
       "name": "Pont Beaurivage",
       "full_name": "Fosse 77 - Pont Beaurivage",
-      "lat": 48.704,
-      "lon": -67.345
+      "lat": 48.655,
+      "lon": -67.3319445,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EISCM"
     },
     {
       "id": "riviere_matapedia_78",
@@ -10069,8 +10753,11 @@
       "pool_number": "83",
       "name": "Ruisseau Fortin",
       "full_name": "Fosse 83 - Ruisseau Fortin",
-      "lat": 48.74,
-      "lon": -67.435
+      "lat": 48.7211111,
+      "lon": -67.4202777,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EISOQ"
     },
     {
       "id": "riviere_matapedia_84",
@@ -10105,8 +10792,11 @@
       "pool_number": "86",
       "name": "Matalik",
       "full_name": "Fosse 86 - Matalik",
-      "lat": 48.758,
-      "lon": -67.48
+      "lat": 48.843502,
+      "lon": -67.528729,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQBND"
     },
     {
       "id": "riviere_matapedia_87",
@@ -10153,8 +10843,11 @@
       "pool_number": "90",
       "name": "Pont Plante",
       "full_name": "Fosse 90 - Pont Plante",
-      "lat": 48.782,
-      "lon": -67.54
+      "lat": 48.843502,
+      "lon": -67.528729,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EISCO"
     },
     {
       "id": "riviere_matapedia_91",
@@ -11281,8 +11974,11 @@
       "pool_number": "46",
       "name": "Croché",
       "full_name": "Fosse 46 - Croché",
-      "lat": 48.435,
-      "lon": -66.327
+      "lat": 48.2644444,
+      "lon": -66.5038889,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERGLJ"
     },
     {
       "id": "riviere_nouvelle_47",
@@ -11293,8 +11989,11 @@
       "pool_number": "47",
       "name": "Roche blanche",
       "full_name": "Fosse 47 - Roche blanche",
-      "lat": 48.441,
-      "lon": -66.337
+      "lat": 48.165278,
+      "lon": -66.391389,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ESDPD"
     },
     {
       "id": "riviere_nouvelle_48",
@@ -11425,8 +12124,11 @@
       "pool_number": "1",
       "name": "2 Mille",
       "full_name": "Fosse 1 - 2 Mille",
-      "lat": 48.02,
-      "lon": -67.2
+      "lat": 48.2494444,
+      "lon": -67.225,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EKKXT"
     },
     {
       "id": "riviere_patapedia_2",
@@ -11437,8 +12139,11 @@
       "pool_number": "2",
       "name": "Rapide McNight",
       "full_name": "Fosse 2 - Rapide McNight",
-      "lat": 48.027,
-      "lon": -67.212
+      "lat": 48.0763889,
+      "lon": -67.1,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERGFQ"
     },
     {
       "id": "riviere_patapedia_3",
@@ -11461,8 +12166,11 @@
       "pool_number": "4",
       "name": "Jumeau",
       "full_name": "Fosse 4 - Jumeau",
-      "lat": 48.041,
-      "lon": -67.236
+      "lat": 47.8680556,
+      "lon": -67.3963889,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ENPHX"
     },
     {
       "id": "riviere_patapedia_5",
@@ -11473,8 +12181,11 @@
       "pool_number": "5",
       "name": "Trois Îles",
       "full_name": "Fosse 5 - Trois Îles",
-      "lat": 48.048,
-      "lon": -67.248
+      "lat": 47.8705556,
+      "lon": -67.4033333,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERFRO"
     },
     {
       "id": "riviere_patapedia_6",
@@ -12721,8 +13432,11 @@
       "pool_number": "54",
       "name": "(Fosse 54)",
       "full_name": "(Fosse 54)",
-      "lat": 48.284,
-      "lon": -65.4
+      "lat": 48.395,
+      "lon": -65.4894444,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPLJJ"
     },
     {
       "id": "riviere_petit_saguenay_1",
@@ -12733,8 +13447,11 @@
       "pool_number": "1",
       "name": "Le Fjord",
       "full_name": "Fosse 1 - Le Fjord",
-      "lat": 48.237,
-      "lon": -70.075
+      "lat": 48.204605,
+      "lon": -70.063675,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EIPSD"
     },
     {
       "id": "riviere_petit_saguenay_2",
@@ -12757,8 +13474,11 @@
       "pool_number": "3",
       "name": "Les Brouillards",
       "full_name": "Fosse 3 - Les Brouillards",
-      "lat": 48.234,
-      "lon": -70.085
+      "lat": 48.222993,
+      "lon": -70.086627,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EIOTI"
     },
     {
       "id": "riviere_petit_saguenay_4",
@@ -12769,8 +13489,11 @@
       "pool_number": "4",
       "name": "Le Cimetière",
       "full_name": "Fosse 4 - Le Cimetière",
-      "lat": 48.2325,
-      "lon": -70.09
+      "lat": 48.201611,
+      "lon": -70.060297,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EIOWI"
     },
     {
       "id": "riviere_petit_saguenay_5",
@@ -12781,8 +13504,11 @@
       "pool_number": "5",
       "name": "Le Cran",
       "full_name": "Fosse 5 - Le Cran",
-      "lat": 48.231,
-      "lon": -70.095
+      "lat": 48.194296,
+      "lon": -70.057919,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EIPAZ"
     },
     {
       "id": "riviere_petit_saguenay_6",
@@ -12793,8 +13519,11 @@
       "pool_number": "6",
       "name": "Arthur Côté",
       "full_name": "Fosse 6 - Arthur Côté",
-      "lat": 48.2295,
-      "lon": -70.1
+      "lat": 48.198449,
+      "lon": -70.057891,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EIOSW"
     },
     {
       "id": "riviere_petit_saguenay_7",
@@ -12805,8 +13534,11 @@
       "pool_number": "7",
       "name": "Long Remous",
       "full_name": "Fosse 7 - Long Remous",
-      "lat": 48.228,
-      "lon": -70.105
+      "lat": 48.188024,
+      "lon": -70.050663,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EIQVE"
     },
     {
       "id": "riviere_petit_saguenay_8",
@@ -12829,8 +13561,11 @@
       "pool_number": "9",
       "name": "La Cascade",
       "full_name": "Fosse 9 - La Cascade",
-      "lat": 48.225,
-      "lon": -70.115
+      "lat": 48.206936,
+      "lon": -70.230124,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERFWV"
     },
     {
       "id": "riviere_petit_saguenay_10",
@@ -12841,8 +13576,11 @@
       "pool_number": "10",
       "name": "Le Barrage",
       "full_name": "Fosse 10 - Le Barrage",
-      "lat": 48.2235,
-      "lon": -70.12
+      "lat": 48.173166,
+      "lon": -70.047269,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EIOSY"
     },
     {
       "id": "riviere_petit_saguenay_11",
@@ -12853,8 +13591,11 @@
       "pool_number": "11",
       "name": "Les Quatre-Temps",
       "full_name": "Fosse 11 - Les Quatre-Temps",
-      "lat": 48.222,
-      "lon": -70.125
+      "lat": 48.201441,
+      "lon": -70.240496,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ESHZV"
     },
     {
       "id": "riviere_petit_saguenay_12",
@@ -12889,8 +13630,11 @@
       "pool_number": "14",
       "name": "Cheval Tom (A+B)",
       "full_name": "Fosse 14 - Cheval Tom (A+B)",
-      "lat": 48.2175,
-      "lon": -70.14
+      "lat": 48.197416,
+      "lon": -70.247566,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERFXA"
     },
     {
       "id": "riviere_petit_saguenay_15",
@@ -12901,8 +13645,11 @@
       "pool_number": "15",
       "name": "Les Rochers",
       "full_name": "Fosse 15 - Les Rochers",
-      "lat": 48.216,
-      "lon": -70.145
+      "lat": 48.2072222,
+      "lon": -70.0675,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EISKK"
     },
     {
       "id": "riviere_petit_saguenay_16",
@@ -12913,8 +13660,11 @@
       "pool_number": "16",
       "name": "La Poussière",
       "full_name": "Fosse 16 - La Poussière",
-      "lat": 48.2145,
-      "lon": -70.15
+      "lat": 48.167596,
+      "lon": -70.051255,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EISDN"
     },
     {
       "id": "riviere_petit_saguenay_17",
@@ -12937,8 +13687,11 @@
       "pool_number": "18",
       "name": "Le Petit-Bras",
       "full_name": "Fosse 18 - Le Petit-Bras",
-      "lat": 48.2115,
-      "lon": -70.16
+      "lat": 48.197519,
+      "lon": -70.24731,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERFXG"
     },
     {
       "id": "riviere_petit_saguenay_19",
@@ -12961,8 +13714,11 @@
       "pool_number": "20",
       "name": "Le Moulin à Bardeaux",
       "full_name": "Fosse 20 - Le Moulin à Bardeaux",
-      "lat": 48.2085,
-      "lon": -70.17
+      "lat": 48.227499,
+      "lon": -70.090738,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EIRHS"
     },
     {
       "id": "riviere_petit_saguenay_21",
@@ -13021,8 +13777,11 @@
       "pool_number": "1",
       "name": "Parent",
       "full_name": "Fosse 1 - Parent",
-      "lat": 48.45,
-      "lon": -68.527
+      "lat": 48.4325,
+      "lon": -68.5533333,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERFMZ"
     },
     {
       "id": "riviere_rimouski_2",
@@ -13033,8 +13792,11 @@
       "pool_number": "2",
       "name": "Vieux Moulin",
       "full_name": "Fosse 2 - Vieux Moulin",
-      "lat": 48.446,
-      "lon": -68.532
+      "lat": 48.4288889,
+      "lon": -68.5530556,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERFNA"
     },
     {
       "id": "riviere_rimouski_3",
@@ -13045,8 +13807,11 @@
       "pool_number": "3",
       "name": "Côte de Glaise",
       "full_name": "Fosse 3 - Côte de Glaise",
-      "lat": 48.442,
-      "lon": -68.537
+      "lat": 48.4263889,
+      "lon": -68.5513889,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERFNB"
     },
     {
       "id": "riviere_rimouski_4",
@@ -13057,8 +13822,11 @@
       "pool_number": "4",
       "name": "Ruisseau Levasseur",
       "full_name": "Fosse 4 - Ruisseau Levasseur",
-      "lat": 48.438,
-      "lon": -68.542
+      "lat": 48.4233333,
+      "lon": -68.5522222,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERFNC"
     },
     {
       "id": "riviere_rimouski_5",
@@ -13069,8 +13837,11 @@
       "pool_number": "5",
       "name": "Petit Pot",
       "full_name": "Fosse 5 - Petit Pot",
-      "lat": 48.434,
-      "lon": -68.547
+      "lat": 48.4222222,
+      "lon": -68.5530556,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERFND"
     },
     {
       "id": "riviere_rimouski_6",
@@ -13081,8 +13852,11 @@
       "pool_number": "6",
       "name": "La Grande Fosse",
       "full_name": "Fosse 6 - La Grande Fosse",
-      "lat": 48.43,
-      "lon": -68.552
+      "lat": 48.4194444,
+      "lon": -68.5552778,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERFNE"
     },
     {
       "id": "riviere_rimouski_7",
@@ -13093,8 +13867,11 @@
       "pool_number": "7",
       "name": "De la Lame",
       "full_name": "Fosse 7 - De la Lame",
-      "lat": 48.426,
-      "lon": -68.557
+      "lat": 48.418889,
+      "lon": -68.555,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ESHYX"
     },
     {
       "id": "riviere_rimouski_8",
@@ -13105,8 +13882,11 @@
       "pool_number": "8",
       "name": "Rapide",
       "full_name": "Fosse 8 - Rapide",
-      "lat": 48.422,
-      "lon": -68.562
+      "lat": 48.417222,
+      "lon": -68.556389,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ESHYY"
     },
     {
       "id": "riviere_rimouski_9",
@@ -13117,8 +13897,11 @@
       "pool_number": "9",
       "name": "Eau Haute",
       "full_name": "Fosse 9 - Eau Haute",
-      "lat": 48.418,
-      "lon": -68.567
+      "lat": 48.4161111,
+      "lon": -68.5569444,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERFNK"
     },
     {
       "id": "riviere_rimouski_10",
@@ -13129,8 +13912,11 @@
       "pool_number": "10",
       "name": "De la Croix",
       "full_name": "Fosse 10 - De la Croix",
-      "lat": 48.414,
-      "lon": -68.572
+      "lat": 48.4147222,
+      "lon": -68.5566667,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERFNL"
     },
     {
       "id": "riviere_rimouski_11",
@@ -13141,8 +13927,11 @@
       "pool_number": "11",
       "name": "De l'Île",
       "full_name": "Fosse 11 - De l'Île",
-      "lat": 48.41,
-      "lon": -68.577
+      "lat": 48.4141667,
+      "lon": -68.5569444,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERFNM"
     },
     {
       "id": "riviere_rimouski_12",
@@ -13177,8 +13966,11 @@
       "pool_number": "13",
       "name": "De la Baie",
       "full_name": "Fosse 13 - De la Baie",
-      "lat": 48.402,
-      "lon": -68.587
+      "lat": 48.4122222,
+      "lon": -68.5558333,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERFNP"
     },
     {
       "id": "riviere_rimouski_27",
@@ -13285,8 +14077,11 @@
       "pool_number": "34",
       "name": "Rivière Noire",
       "full_name": "Fosse 34 - Rivière Noire",
-      "lat": 48.376,
-      "lon": -68.621
+      "lat": 48.261389,
+      "lon": -68.539167,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ESEEO"
     },
     {
       "id": "riviere_rimouski_35",
@@ -13369,8 +14164,11 @@
       "pool_number": "41",
       "name": "Lagune",
       "full_name": "Fosse 41 - Lagune",
-      "lat": 48.355,
-      "lon": -68.649
+      "lat": 48.2747222,
+      "lon": -68.56,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERFNS"
     },
     {
       "id": "riviere_rimouski_42",
@@ -13381,8 +14179,11 @@
       "pool_number": "42",
       "name": "Cran",
       "full_name": "Fosse 42 - Cran",
-      "lat": 48.352,
-      "lon": -68.652
+      "lat": 48.2736111,
+      "lon": -68.5597222,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERFNT"
     },
     {
       "id": "riviere_rimouski_43",
@@ -13405,8 +14206,11 @@
       "pool_number": "44",
       "name": "Coteau des Trembles",
       "full_name": "Fosse 44 - Coteau des Trembles",
-      "lat": 48.348,
-      "lon": -68.658
+      "lat": 48.272222,
+      "lon": -68.557222,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ESDSN"
     },
     {
       "id": "riviere_rimouski_45",
@@ -13417,8 +14221,11 @@
       "pool_number": "45",
       "name": "Rivière Blanche",
       "full_name": "Fosse 45 - Rivière Blanche",
-      "lat": 48.346,
-      "lon": -68.661
+      "lat": 48.2716667,
+      "lon": -68.5541667,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERFNW"
     },
     {
       "id": "riviere_rimouski_46",
@@ -13429,8 +14236,11 @@
       "pool_number": "46",
       "name": "Des Pins",
       "full_name": "Fosse 46 - Des Pins",
-      "lat": 48.344,
-      "lon": -68.664
+      "lat": 48.2705556,
+      "lon": -68.5527778,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERFNX"
     },
     {
       "id": "riviere_rimouski_47",
@@ -13441,8 +14251,11 @@
       "pool_number": "47",
       "name": "Ruisseau du Lac Chaud",
       "full_name": "Fosse 47 - Ruisseau du Lac Chaud",
-      "lat": 48.342,
-      "lon": -68.667
+      "lat": 48.269167,
+      "lon": -68.551111,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ESFAG"
     },
     {
       "id": "riviere_rimouski_48",
@@ -13453,8 +14266,11 @@
       "pool_number": "48",
       "name": "Pêche-à-l'Anguille",
       "full_name": "Fosse 48 - Pêche-à-l'Anguille",
-      "lat": 48.34,
-      "lon": -68.67
+      "lat": 48.2680556,
+      "lon": -68.5486111,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERFNZ"
     },
     {
       "id": "riviere_rimouski_49",
@@ -13465,8 +14281,11 @@
       "pool_number": "49",
       "name": "300 Marches",
       "full_name": "Fosse 49 - 300 Marches",
-      "lat": 48.338,
-      "lon": -68.673
+      "lat": 48.2633333,
+      "lon": -68.5413889,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERFOA"
     },
     {
       "id": "riviere_rimouski_50",
@@ -13489,8 +14308,11 @@
       "pool_number": "51",
       "name": "Passerelle",
       "full_name": "Fosse 51 - Passerelle",
-      "lat": 48.334,
-      "lon": -68.679
+      "lat": 48.2608333,
+      "lon": -68.5383333,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERFOC"
     },
     {
       "id": "riviere_rimouski_52",
@@ -13501,8 +14323,11 @@
       "pool_number": "52",
       "name": "Du Canyon",
       "full_name": "Fosse 52 - Du Canyon",
-      "lat": 48.332,
-      "lon": -68.682
+      "lat": 48.26,
+      "lon": -68.5369444,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERFOD"
     },
     {
       "id": "riviere_rimouski_53",
@@ -13525,8 +14350,11 @@
       "pool_number": "54",
       "name": "De l'Anse",
       "full_name": "Fosse 54 - De l'Anse",
-      "lat": 48.328,
-      "lon": -68.688
+      "lat": 48.2577778,
+      "lon": -68.5347222,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERFOF"
     },
     {
       "id": "riviere_rimouski_55",
@@ -13549,8 +14377,11 @@
       "pool_number": "56",
       "name": "Fosse Cachée",
       "full_name": "Fosse 56 - Fosse Cachée",
-      "lat": 48.324,
-      "lon": -68.694
+      "lat": 48.2561111,
+      "lon": -68.5338889,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERFOH"
     },
     {
       "id": "riviere_rimouski_57",
@@ -13561,8 +14392,11 @@
       "pool_number": "57",
       "name": "Des Embûches",
       "full_name": "Fosse 57 - Des Embûches",
-      "lat": 48.322,
-      "lon": -68.697
+      "lat": 48.2547222,
+      "lon": -68.5325,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERFOI"
     },
     {
       "id": "riviere_rimouski_58",
@@ -13597,8 +14431,11 @@
       "pool_number": "60",
       "name": "Des Cascades",
       "full_name": "Fosse 60 - Des Cascades",
-      "lat": 48.316,
-      "lon": -68.706
+      "lat": 48.2511111,
+      "lon": -68.53,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERFOL"
     },
     {
       "id": "riviere_rimouski_61",
@@ -13609,8 +14446,11 @@
       "pool_number": "61",
       "name": "De la Muraille",
       "full_name": "Fosse 61 - De la Muraille",
-      "lat": 48.314,
-      "lon": -68.709
+      "lat": 48.249722,
+      "lon": -68.530556,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ESHYW"
     },
     {
       "id": "riviere_saint_jean_gaspe_1",
@@ -13861,8 +14701,11 @@
       "pool_number": "21",
       "name": "Lady Mary",
       "full_name": "Fosse 21 - Lady Mary",
-      "lat": 48.7985,
-      "lon": -64.656
+      "lat": 48.821152,
+      "lon": -64.862058,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYWE"
     },
     {
       "id": "riviere_saint_jean_gaspe_22",
@@ -13873,8 +14716,11 @@
       "pool_number": "22",
       "name": "Lady Gray",
       "full_name": "Fosse 22 - Lady Gray",
-      "lat": 48.798,
-      "lon": -64.665
+      "lat": 48.8141667,
+      "lon": -64.7472222,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYVW"
     },
     {
       "id": "riviere_saint_jean_saguenay_1",
@@ -14053,8 +14899,11 @@
       "pool_number": "15",
       "name": "Pont",
       "full_name": "Fosse 15 - Pont",
-      "lat": 48.319,
-      "lon": -70.936
+      "lat": 48.329213,
+      "lon": -70.905125,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERFYP"
     },
     {
       "id": "riviere_saint_jean_saguenay_18",
@@ -14161,8 +15010,11 @@
       "pool_number": "28",
       "name": "Cran",
       "full_name": "Fosse 28 - Cran",
-      "lat": 48.301,
-      "lon": -70.972
+      "lat": 48.333741,
+      "lon": -70.899335,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "ERFYM"
     },
     {
       "id": "riviere_saint_jean_saguenay_29",
@@ -15829,8 +16681,11 @@
       "pool_number": "15",
       "name": "Carter",
       "full_name": "Fosse 15 - Carter",
-      "lat": 48.824,
-      "lon": -64.693
+      "lat": 48.8088889,
+      "lon": -64.7752778,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYVZ"
     },
     {
       "id": "riviere_york_16",
@@ -15841,8 +16696,11 @@
       "pool_number": "16",
       "name": "Maitland",
       "full_name": "Fosse 16 - Maitland",
-      "lat": 48.826,
-      "lon": -64.707
+      "lat": 48.8202778,
+      "lon": -64.8822222,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYXH"
     },
     {
       "id": "riviere_york_17",
@@ -15865,8 +16723,11 @@
       "pool_number": "18",
       "name": "Dog",
       "full_name": "Fosse 18 - Dog",
-      "lat": 48.83,
-      "lon": -64.735
+      "lat": 48.8177778,
+      "lon": -64.8877778,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYXJ"
     },
     {
       "id": "riviere_york_19",
@@ -15877,8 +16738,11 @@
       "pool_number": "19",
       "name": "Still",
       "full_name": "Fosse 19 - Still",
-      "lat": 48.832,
-      "lon": -64.749
+      "lat": 48.81525,
+      "lon": -64.888838,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYXK"
     },
     {
       "id": "riviere_york_20",
@@ -15889,8 +16753,11 @@
       "pool_number": "20",
       "name": "Cèdre",
       "full_name": "Fosse 20 - Cèdre",
-      "lat": 48.834,
-      "lon": -64.763
+      "lat": 48.815,
+      "lon": -64.8927778,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYXM"
     },
     {
       "id": "riviere_york_21",
@@ -15901,8 +16768,11 @@
       "pool_number": "21",
       "name": "Gros Saumon",
       "full_name": "Fosse 21 - Gros Saumon",
-      "lat": 48.836,
-      "lon": -64.777
+      "lat": 48.8208333,
+      "lon": -64.8791667,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYXG"
     },
     {
       "id": "riviere_york_22",
@@ -15913,8 +16783,11 @@
       "pool_number": "22",
       "name": "Alfred",
       "full_name": "Fosse 22 - Alfred",
-      "lat": 48.838,
-      "lon": -64.791
+      "lat": 48.8102778,
+      "lon": -64.9011111,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYYC"
     },
     {
       "id": "riviere_york_23",
@@ -15925,8 +16798,11 @@
       "pool_number": "23",
       "name": "Araback",
       "full_name": "Fosse 23 - Araback",
-      "lat": 48.84,
-      "lon": -64.805
+      "lat": 48.8097222,
+      "lon": -64.905,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYYE"
     },
     {
       "id": "riviere_york_30",
@@ -15937,8 +16813,11 @@
       "pool_number": "30",
       "name": "Sentier",
       "full_name": "Fosse 30 - Sentier",
-      "lat": 48.843,
-      "lon": -64.825
+      "lat": 48.8075,
+      "lon": -64.9105556,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQCYJ"
     },
     {
       "id": "riviere_york_32",
@@ -15973,8 +16852,11 @@
       "pool_number": "36",
       "name": "Dexter",
       "full_name": "Fosse 36 - Dexter",
-      "lat": 48.851,
-      "lon": -64.883
+      "lat": 48.882432,
+      "lon": -65.098163,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQCYI"
     },
     {
       "id": "riviere_york_37",
@@ -15985,8 +16867,11 @@
       "pool_number": "37",
       "name": "Fairbanks",
       "full_name": "Fosse 37 - Fairbanks",
-      "lat": 48.853,
-      "lon": -64.901
+      "lat": 48.7905556,
+      "lon": -64.9622222,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYYO"
     },
     {
       "id": "riviere_york_38",
@@ -15997,8 +16882,11 @@
       "pool_number": "38",
       "name": "Murdoch",
       "full_name": "Fosse 38 - Murdoch",
-      "lat": 48.855,
-      "lon": -64.919
+      "lat": 48.7916667,
+      "lon": -64.9652778,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYYS"
     },
     {
       "id": "riviere_york_39",
@@ -16033,8 +16921,11 @@
       "pool_number": "41",
       "name": "Viviane",
       "full_name": "Fosse 41 - Viviane",
-      "lat": 48.861,
-      "lon": -64.973
+      "lat": 48.7925,
+      "lon": -64.8058333,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYZC"
     },
     {
       "id": "riviere_york_46",
@@ -16045,8 +16936,11 @@
       "pool_number": "46",
       "name": "Guard Rail",
       "full_name": "Fosse 46 - Guard Rail",
-      "lat": 48.863,
-      "lon": -64.991
+      "lat": 48.7958333,
+      "lon": -64.8111111,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYZG"
     },
     {
       "id": "riviere_york_48",
@@ -16057,8 +16951,11 @@
       "pool_number": "48",
       "name": "Gorge",
       "full_name": "Fosse 48 - Gorge",
-      "lat": 48.865,
-      "lon": -65.009
+      "lat": 48.8011111,
+      "lon": -64.9794444,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYZK"
     },
     {
       "id": "riviere_york_51",
@@ -16069,8 +16966,11 @@
       "pool_number": "51",
       "name": "Castor",
       "full_name": "Fosse 51 - Castor",
-      "lat": 48.867,
-      "lon": -65.027
+      "lat": 48.8027778,
+      "lon": -64.9841667,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EQBPI"
     },
     {
       "id": "riviere_york_52",
@@ -16081,8 +16981,11 @@
       "pool_number": "52",
       "name": "Offie",
       "full_name": "Fosse 52 - Offie",
-      "lat": 48.869,
-      "lon": -65.045
+      "lat": 48.8080556,
+      "lon": -64.9886111,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYZM"
     },
     {
       "id": "riviere_york_53",
@@ -16093,8 +16996,11 @@
       "pool_number": "53",
       "name": "Spruis Rock",
       "full_name": "Fosse 53 - Spruis Rock",
-      "lat": 48.871,
-      "lon": -65.063
+      "lat": 48.8916667,
+      "lon": -65.1875,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPZBO"
     },
     {
       "id": "riviere_york_54",
@@ -16105,8 +17011,11 @@
       "pool_number": "54",
       "name": "Écluse",
       "full_name": "Fosse 54 - Écluse",
-      "lat": 48.873,
-      "lon": -65.081
+      "lat": 48.821946,
+      "lon": -65.037563,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYZV"
     },
     {
       "id": "riviere_york_56",
@@ -16117,8 +17026,11 @@
       "pool_number": "56",
       "name": "l'Orignal",
       "full_name": "Fosse 56 - l'Orignal",
-      "lat": 48.875,
-      "lon": -65.099
+      "lat": 48.8347222,
+      "lon": -65.0427778,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYZY"
     },
     {
       "id": "riviere_york_57",
@@ -16129,8 +17041,11 @@
       "pool_number": "57",
       "name": "Terry",
       "full_name": "Fosse 57 - Terry",
-      "lat": 48.876,
-      "lon": -65.117
+      "lat": 48.8413889,
+      "lon": -65.0477778,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPYZZ"
     },
     {
       "id": "riviere_york_58",
@@ -16141,8 +17056,11 @@
       "pool_number": "58",
       "name": "Keg",
       "full_name": "Fosse 58 - Keg",
-      "lat": 48.877,
-      "lon": -65.135
+      "lat": 48.8461111,
+      "lon": -65.0569444,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPZAA"
     },
     {
       "id": "riviere_york_60",
@@ -16153,8 +17071,11 @@
       "pool_number": "60",
       "name": "Pine Hill",
       "full_name": "Fosse 60 - Pine Hill",
-      "lat": 48.878,
-      "lon": -65.153
+      "lat": 48.8580556,
+      "lon": -65.0869444,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPZAB"
     },
     {
       "id": "riviere_york_61",
@@ -16165,8 +17086,11 @@
       "pool_number": "61",
       "name": "Montagnard",
       "full_name": "Fosse 61 - Montagnard",
-      "lat": 48.879,
-      "lon": -65.171
+      "lat": 48.9638889,
+      "lon": -65.0911111,
+      "coord_source": "CGNDB (NRCan official)",
+      "coord_accuracy_m": 100,
+      "cgndb_id": "EPZAF"
     },
     {
       "id": "riviere_york_65",
@@ -16252,5 +17176,10 @@
       "lat": 48.864,
       "lon": -65.45
     }
-  ]
+  ],
+  "coord_sources": {
+    "estimated": "Interpolated from FQSA PDF maps (±100-300m)",
+    "cgndb": "NRCan CGNDB official — Open Government Licence Canada (~100m)"
+  },
+  "last_updated": "2026-02-27"
 }
